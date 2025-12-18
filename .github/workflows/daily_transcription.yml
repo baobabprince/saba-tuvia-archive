@@ -1,0 +1,50 @@
+name: Daily Image Transcription
+
+on:
+  # Schedule to run once a day at 8:00 AM UTC
+  schedule:
+    - cron: '0 8 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  transcribe-and-push:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Give the job permission to write to the repository
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-generativeai Pillow
+
+      - name: Run Transcription Script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python transcribe_and_translate.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check if there are changes to commit
+          if git diff --exit-code --quiet transcriptions.txt .last_processed_image; then
+            echo "No new transcriptions to commit."
+          else
+            echo "New transcriptions found. Committing changes."
+            # The state file will contain the name of the last processed file
+            LAST_FILE=$(cat .last_processed_image)
+            git add transcriptions.txt .last_processed_image
+            git commit -m "feat: Add daily transcription for ${LAST_FILE}"
+            git push
+          fi
