@@ -8,7 +8,7 @@ IMAGE_DIR = "images"
 STATE_FILE = ".last_processed_image"
 OUTPUT_FILE = "transcriptions.txt"
 API_KEY_ENV_VAR = "GEMINI_API_KEY"
-MODEL_NAME = "gemini-1.5-flash"
+MODEL_NAME = "gemini-1.5-pro"
 PROMPT = """
 Describe this image in detail, focusing on the main subjects and any text present.
 After the description, provide a direct translation of that description into Hebrew.
