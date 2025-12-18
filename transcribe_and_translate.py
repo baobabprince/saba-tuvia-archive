@@ -57,7 +57,7 @@ def main():
     Main function to run the transcription and translation process.
     """
     # 1. Get API Key and configure the model
-    api_key = os.getenv(API_KEY_ENV_VAR)
+    api_key = os.getenv("TEMP_DEBUG_API_KEY") or os.getenv(API_KEY_ENV_VAR)
     if not api_key:
         raise ValueError(f"API key not found. Please set the '{API_KEY_ENV_VAR}' environment variable.")
     genai.configure(api_key=api_key)

@@ -30,6 +30,8 @@ jobs:
 
       - name: Run Transcription Script
         env:
+          # THIS IS AN INSECURE, TEMPORARY KEY FOR DEBUGGING ONLY. DO NOT COMMIT KEYS TO FILES.
+          TEMP_DEBUG_API_KEY: "AIzaSyCNDB1XHdQU3L1Z2THOwXGsYITr73cNGNE"
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python transcribe_and_translate.py
 
