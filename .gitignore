@@ -1,12 +1,5 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-pip-selfcheck.json
+# Rust
+/target
 
 # Project-specific
 images/

@@ -15,20 +15,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Rust
+        uses: actions-rs/toolchain@v1
         with:
-          python-version: '3.11'
+            toolchain: stable
+            override: true
 
-      - name: Install and Run Transcription
+      - name: Cache dependencies
+        uses: Swatinem/rust-cache@v1
+
+      - name: Build
+        run: cargo build --release --verbose
+
+      - name: Run Transcription
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: |
-          python -m pip install --upgrade pip
-          pip install --no-cache-dir -r requirements.txt
-          mkdir -p images
-          touch transcriptions.txt .last_processed_image
-          python main.py transcribe --image_dir images --output_file transcriptions.txt --state_file .last_processed_image
+        run: ./target/release/image_tool transcribe
 
       - name: Commit and Push Changes
         run: |

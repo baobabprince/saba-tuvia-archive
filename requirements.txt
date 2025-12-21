@@ -1,4 +1,0 @@
-google-genai
-Pillow
-numpy
-opencv-python
