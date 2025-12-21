@@ -1,5 +1,4 @@
 google-generativeai
 Pillow
-requests
 numpy
 opencv-python

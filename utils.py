@@ -2,11 +2,11 @@ import os
 from pathlib import Path
 import google.genai as genai
 from PIL import Image
-import requests
+import subprocess
 
 def download_image(image_filename, image_dir):
     """
-    Downloads an image if it doesn't already exist in the specified directory.
+    Downloads an image using curl if it doesn't already exist in the specified directory.
     """
     if not os.path.exists(image_dir):
         os.makedirs(image_dir)
@@ -20,15 +20,17 @@ def download_image(image_filename, image_dir):
     image_url = f"{base_url}{image_filename}"
 
     try:
-        response = requests.get(image_url, stream=True)
-        response.raise_for_status()
-        with open(image_path, "wb") as f:
-            for chunk in response.iter_content(chunk_size=8192):
-                f.write(chunk)
+        subprocess.run(
+            ["curl", "-L", "-o", str(image_path), image_url],
+            check=True,
+            capture_output=True,
+            text=True
+        )
         print(f"Image '{image_filename}' downloaded successfully.")
         return str(image_path)
-    except requests.exceptions.RequestException as e:
-        print(f"Error downloading image: {e}")
+    except subprocess.CalledProcessError as e:
+        print(f"Error downloading image using curl: {e}")
+        print(f"Stderr: {e.stderr}")
         return None
 
 def get_next_image_filename(state_file, max_images=700):
