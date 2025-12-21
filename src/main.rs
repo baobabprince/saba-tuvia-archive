@@ -20,7 +20,7 @@ enum Commands {
         input_path: PathBuf,
         #[clap(parse(from_os_str))]
         output_path: PathBuf,
-        #[clap(long, arg_enum, default_value_t = cropper::CropMethod::Contour)]
+        #[clap(long, value_enum, default_value_t = cropper::CropMethod::Contour)]
         method: cropper::CropMethod,
     },
     /// Transcribe and translate an image

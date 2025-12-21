@@ -1,34 +1,35 @@
 use serde::{Serialize, Deserialize};
-use reqwest::{Client, Body};
+use reqwest::Client;
 use anyhow::Result;
+use base64::{Engine as _, engine::general_purpose};
 use std::fs::File;
 use std::io::copy;
 use std::path::Path;
 
-#[derive(Serialize)]
+#[derive(Serialize, Deserialize, Debug)]
 struct TextPart {
     text: String,
 }
 
-#[derive(Serialize)]
+#[derive(Serialize, Deserialize, Debug)]
 struct ImagePart {
     inline_data: InlineData,
 }
 
-#[derive(Serialize)]
+#[derive(Serialize, Deserialize, Debug)]
 struct InlineData {
     mime_type: String,
     data: String,
 }
 
-#[derive(Serialize)]
+#[derive(Serialize, Deserialize, Debug, Clone)]
 #[serde(untagged)]
 enum Part {
     Text(TextPart),
     Image(ImagePart),
 }
 
-#[derive(Serialize)]
+#[derive(Serialize, Deserialize, Debug)]
 struct Content {
     parts: Vec<Part>,
 }
@@ -70,7 +71,7 @@ pub async fn transcribe_and_translate(api_key: &str, image_path: &Path) -> Resul
     );
 
     let image_data = std::fs::read(image_path)?;
-    let encoded_image = base64::encode(&image_data);
+    let encoded_image = general_purpose::STANDARD.encode(&image_data);
 
     let request_body = RequestBody {
         contents: vec![Content {

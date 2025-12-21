@@ -1,4 +1,4 @@
-use image::{DynamicImage, Rgba, GenericImageView};
+use image::{DynamicImage, GenericImageView};
 use anyhow::{Result, anyhow};
 use opencv::{
     prelude::*,
@@ -7,6 +7,7 @@ use opencv::{
     imgcodecs,
 };
 
+#[derive(clap::ValueEnum, Clone, Debug)]
 pub enum CropMethod {
     Fixed,
     DarkTol,
