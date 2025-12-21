@@ -25,7 +25,7 @@ jobs:
         uses: Swatinem/rust-cache@v1
 
       - name: Install Dependencies
-        run: sudo apt-get update && sudo apt-get install -y libclang-dev
+        run: sudo apt-get update && sudo apt-get install -y libclang-dev libopencv-dev
 
       - name: Build
         run: cargo build --release --verbose
