@@ -23,8 +23,11 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install --no-cache-dir -r requirements.txt
+          pip install -v --no-cache-dir -r requirements.txt
           pip list
+          echo "Attempting to import google.genai..."
+          python -c "import google.genai"
+          echo "Import successful."
 
       - name: Prepare environment
         run: |
