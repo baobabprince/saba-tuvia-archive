@@ -1,0 +1,34 @@
+name: Daily Gemini Image Processing
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # רץ בכל יום בחצות
+  workflow_dispatch: # מאפשר להריץ ידנית לבדיקה
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install google-generativeai
+
+      - name: Run script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python script.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add processed_files.txt outputs/
+          git commit -m "Update processed files and add translations" || exit 0
+          git push
