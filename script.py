@@ -9,7 +9,7 @@ OUTPUT_DIR = Path("outputs")
 TRACKER_FILE = Path("processed_files.txt")
 
 genai.configure(api_key=API_KEY)
-model = genai.GenerativeModel('gemini-3.0-flash') # מודל מהיר וחסכוני
+model = genai.GenerativeModel('gemini-3-pro-preview') # מודל מהיר וחסכוני
 
 def get_already_processed():
     if not TRACKER_FILE.exists():
