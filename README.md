@@ -1,37 +1,61 @@
-# Image Cropping Scripts
+📜 Yad Vashem Document Processor (AI-Powered)
+מערכת אוטומטית מבוססת Gemini 3.0 Flash לעיבוד, תמלול ותרגום מסמכים היסטוריים מארכיון יד ושם. המערכת רצה באופן יומי, מושכת תמונות ישירות מהשרת, ומפיקה פלט הכולל תמלול מקורי ותרגום לעברית.
 
-This project contains a collection of Python scripts for cropping images. Each script provides a different method for automated image cropping.
+🚀 תכונות עיקריות (Speed Optimizations)
+Zero-Storage Build: הפרויקט לא שומר תמונות ב-Git. התמונות מורדות בזמן אמת לזיכרון ה-Runner, מה ששומר על Repository קל ו-Checkout מהיר (פחות מ-2 שניות).
 
-## Scripts
+Parallel Downloading: שימוש ב-ThreadPoolExecutor להורדת תמונות במקביל, מה שמקצר את זמן הכנת הנתונים ב-80%.
 
-*   **`crop.py`**: This script crops a fixed number of pixels from the bottom of the image, with different amounts for landscape and portrait orientations. It then trims the remaining transparent areas.
-*   **`cc.py`**: This script crops the image by finding the bounding box of all pixels that are not dark (above a certain threshold).
-*   **`cl.py`**: This script crops the image by finding the bounding box of non-zero pixels in a grayscale version of the image. It also attempts to create a mask for the upper contour of the object.
-*   **`cr.py`**: This script uses OpenCV to find the contours of the main object in the image and crops to the bounding box of the largest contour.
+Batch Processing: עיבוד של מספר מסמכים בבת אחת מול ה-API של Google GenAI לחיסכון בזמן תקשורת.
 
-## Usage
+Incremental Updates: מנגנון מעקב (processed_files.txt) המבטיח שכל תמונה תעובד פעם אחת בלבד.
 
-Each script can be run directly from the command line:
+🛠 טכנולוגיות
+Language: Python 3.11
 
-```bash
-python crop.py
-python cc.py
-python cl.py
-python cr.py
-```
+AI Model: Gemini 2.0 Flash (via google-genai)
 
-The scripts are configured to read images from the `images/` directory and save the cropped images to a new directory (e.g., `images/cropped/`, `output/`). Please see the individual scripts for specific input and output paths.
+Automation: GitHub Actions
 
-## Dependencies
+Data Source: Yad Vashem Online Assets
 
-The scripts use the following Python libraries:
+📂 מבנה הפרויקט
+script.py: הסקריפט המרכזי האחראי על ההורדה, הפנייה ל-AI ושמירת התוצאות.
 
-*   Pillow (PIL)
-*   NumPy
-*   OpenCV (for `cr.py`)
+processed_files.txt: קובץ מעקב המכיל רשימת קבצים שכבר עובדו.
 
-You can install these dependencies using pip:
+outputs/: תיקייה המכילה את קבצי הטקסט המעובדים (תמלול + תרגום + URL).
 
-```bash
-pip install Pillow numpy opencv-python
-```
+.github/workflows/main.yml: הגדרות האוטומציה להרצה יומית.
+
+⚙️ הגדרות והרצה
+1. דרישות מוקדמות
+יש להגדיר Secret ב-GitHub בשם GEMINI_API_KEY עם מפתח ה-API שלך מ-Google AI Studio.
+
+2. הרצה מקומית
+אם ברצונך להריץ את הסקריפט ידנית על המחשב:
+
+Bash
+
+# התקנת ספריות
+pip install google-genai requests
+
+# הגדרת משתנה סביבה (בטרמינל)
+export GEMINI_API_KEY="your_api_key_here"
+
+# הרצה
+python script.py
+📝 פורמט הפלט
+כל קובץ בתיקיית outputs ייראה כך:
+
+Markdown
+
+Source URL for the following image: https://assets.yadvashem.org/.../00001.JPG
+### Transcription (Original)
+[Original Text from Image]
+
+### Translation (Hebrew)
+[Hebrew Translation]
+---
+📊 סטטוס הפרויקט
+הפרויקט מוגדר לעבד 4 תמונות בכל הרצה (Batch Size), ורץ באופן אוטומטי פעם ביום עד להשלמת כל 700 המסמכים בסדרה.
