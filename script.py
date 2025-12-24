@@ -10,7 +10,7 @@ API_KEY = os.getenv("GEMINI_API_KEY")
 TRACKER_FILE = Path("processed_files.txt")
 BASE_URL = "https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/"
 MODEL_ID = "gemini-3-flash-preview"
-BATCH_SIZE = 20
+BATCH_SIZE = 50
 
 client = genai.Client(api_key=API_KEY)
 
