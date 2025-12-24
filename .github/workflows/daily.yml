@@ -1,7 +1,7 @@
 name: Gemini Fast Parallel Pipeline
 on:
   schedule:
-    - cron: '0 2,20 * * *' # רץ כל יום ב-9 בבוקר
+    - cron: '0 19,20,21,22,23 * * *' # רץ כל יום ב-9 בבוקר
   workflow_dispatch:    # מאפשר הרצה ידנית בלחיצת כפתור
 
 jobs:
