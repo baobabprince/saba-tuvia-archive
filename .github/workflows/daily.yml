@@ -1,37 +1,31 @@
-name: Daily Gemini Image Processing
-
+name: Gemini Fast Parallel Pipeline
 on:
   schedule:
-    - cron: '0 0 * * *' # רץ בכל יום בחצות
-  workflow_dispatch: # מאפשר להריץ ידנית לבדיקה
+    - cron: '0 2,20 * * *' # רץ כל יום ב-9 בבוקר
+  workflow_dispatch:    # מאפשר הרצה ידנית בלחיצת כפתור
 
 jobs:
-  build:
+  process:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: Checkout Code
+        uses: actions/checkout@v4
         with:
-              fetch-depth: 1
+          fetch-depth: 1 # מוריד רק את ה-Snapshot הנוכחי (מהיר מאוד)
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-
-      - name: Install dependencies
-        run: pip install google-genai
-      - name: Run script
+      - name: Install and Run
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python script.py
-
-      - name: Commit and push changes
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          pip install google-genai requests
+          python script.py
+
+      - name: Commit and Push
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
           git add processed_files.txt outputs/
-          git commit -m "Update processed files and add translations" || exit 0
+          git commit -m "Update translations $(date +'%Y-%m-%d')" || exit 0
           git push
