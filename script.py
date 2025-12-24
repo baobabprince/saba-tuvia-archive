@@ -15,22 +15,26 @@ BATCH_SIZE = 4
 client = genai.Client(api_key=API_KEY)
 
 def download_worker(index):
-    """מוריד תמונה בודדת ב-Thread נפרד"""
+    """מוריד תמונה בודדת ב-Thread נפרד ומחזיר גם את ה-URL"""
     file_name = f"{index:05d}.JPG"
     url = f"{BASE_URL}{file_name}"
     try:
         resp = requests.get(url, timeout=15)
         if resp.status_code == 200:
-            return (file_name, resp.content)
+            print(f"Downloaded: {file_name}")
+            return {
+                "name": file_name,
+                "url": url,
+                "content": resp.content
+            }
     except Exception as e:
         print(f"Error downloading {file_name}: {e}")
     return None
 
 def main():
     if not TRACKER_FILE.exists(): TRACKER_FILE.touch()
-    processed = set(TRACKER_FILE.read_text().splitlines())
+    processed = set(TRACKER_FILE.read_text(encoding="utf-8").splitlines())
     
-    # מציאת האינדקסים הבאים לעיבוד
     to_process_indices = []
     idx = 1
     while len(to_process_indices) < BATCH_SIZE and idx <= 700:
@@ -43,55 +47,53 @@ def main():
         print("Everything is already processed.")
         return
 
-    # הורדה מקבילית (High Speed)
+    # הורדה מקבילית
     print(f"Downloading {len(to_process_indices)} images in parallel...")
-    image_parts = []
-    success_names = []
-    
+    downloaded_data = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=BATCH_SIZE) as executor:
         results = list(executor.map(download_worker, to_process_indices))
     
-    for res in results:
-        if res:
-            name, content = res
-            image_parts.append(types.Part.from_bytes(data=content, mime_type="image/jpeg"))
-            success_names.append(name)
+    # סינון תוצאות
+    downloaded_data = [res for res in results if res is not None]
+    if not downloaded_data:
+        print("No images were downloaded.")
+        return
 
-    if not image_parts: return
+    # בניית רשימת התכנים לשליחה (פרומפט -> תמונה + שם/URL -> תמונה + שם/URL...)
+    # 
+    api_contents = [
+        """Analyze the provided images. For EACH image, you MUST provide:
+        1. The Original URL (provided in the text next to the image).
+        2. Transcription: Exact text from the image.
+        3. Translation: Fluent Hebrew translation.
+        
+        Format the output clearly for each document."""
+    ]
 
-    # שליחה לג'מיני
-        prompt = """Analyze the provided image and perform the following tasks:
+    for item in downloaded_data:
+        # אנחנו מצמידים לכל תמונה את ה-URL שלה כחלק מההקשר
+        api_contents.append(f"Source URL for the following image: {item['url']}")
+        api_contents.append(types.Part.from_bytes(data=item['content'], mime_type="image/jpeg"))
 
-        1. **Transcription**: Transcribe the text exactly as it appears in the image. Maintain the original line breaks and formatting. If any word is unclear, mark it with [unclear].
-        2. **Translation**: Translate the transcribed text into fluent and natural Hebrew. Ensure that the tone and context of the original message are preserved.
-
-        Please present the result in this format:
-        ---
-        ### Transcription (Original)
-        [The text here]
-
-        ### Translation (Hebrew)
-        [The Hebrew translation here]
-        ---
-        """
-    content_parts.append(prompt)
     try:
         print(f"Sending batch to {MODEL_ID}...")
         response = client.models.generate_content(
             model=MODEL_ID,
-            contents=[prompt] + image_parts
+            contents=api_contents
         )
         
         # שמירה
-        Path("outputs").mkdir(exist_ok=True)
+        output_dir = Path("outputs")
+        output_dir.mkdir(exist_ok=True)
         timestamp = to_process_indices[0]
-        (Path("outputs") / f"batch_{timestamp:05d}.txt").write_text(response.text, encoding="utf-8")
+        output_path = output_dir / f"batch_{timestamp:05d}.txt"
+        output_path.write_text(response.text, encoding="utf-8")
         
         # עדכון מעקב
-        with open(TRACKER_FILE, "a") as f:
-            for name in success_names:
-                f.write(f"{name}\n")
-        print("Success!")
+        with open(TRACKER_FILE, "a", encoding="utf-8") as f:
+            for item in downloaded_data:
+                f.write(f"{item['name']}\n")
+        print(f"Success! Output saved to {output_path}")
 
     except Exception as e:
         print(f"API Error: {e}")
