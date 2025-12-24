@@ -1,0 +1,59 @@
+### ניתוח מסמכים
+
+להלן ניתוח ארבעת הדימויים שסופקו:
+
+---
+
+**מסמך 1**
+
+1.  **URL מקורי:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00023.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00023.JPG)
+2.  **תמלול (פולנית/גרמנית):**
+    *   **Absender:** F. Hüttner, Tarnów, Szopena 12. Deutsche Post Osten.
+    *   **An:** Tobias Hüttner, Panevėžys, Kranto g-ve 13, Litauen Lietuva.
+    *   **Postmark:** Tarnow 13.V.1940.
+    *   **Censor Stamp:** Geprüft Oberkommando der Wehrmacht.
+    *   **Message:** Przy sposobności też Cię pozdrawiam, pozdrowienie od Babci i od Cioci i wujcia Falka.
+3.  **תרגום לעברית:**
+    *   **שולח:** פ. היטנר, טארנוב, רחוב שופנה 12. דואר גרמני מזרח.
+    *   **אל:** טוביאס היטנר, פוניבז', רחוב קראנטו 13, ליטא.
+    *   **חותמת דואר:** טארנוב 13.5.1940.
+    *   **חותמת צנזורה:** נבדק על ידי הפיקוד העליון של הוורמאכט.
+    *   **מסר:** בהזדמנות זו אני גם מוסרת לך דרישת שלום, דרישת שלום מסבתא ומהדודה והדוד פאלק.
+
+---
+
+**מסמך 2**
+
+1.  **URL מקורי:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00024.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00024.JPG)
+2.  **תמלול (פולנית):**
+    *   Tarnów, 15/IV.40
+    *   Kochany Towku. Twoją kartkę otrzymaliśmy i z radością czytaliśmy żeś Bogu dzięki zdrowy. Wybacz że Ci zaraz nie odpisałam gdyż nie miałam cierpliwości, bo tatuś wyjechał do Dębicy do pracy. Narazie w domu nic nowego, jesteśmy Bogu dzięki zdrowi. Co słychać u Ciebie jak ci się pracuje, jak tam z pogodą, bo u nas deszczowe dni. Narazie nie mam Ci nic nowego do pisania drugim razem Ci więcej napiszę. Pozdrawiam Cię serdecznie. Osobne pozdrowienie od Rodziców od Szymka i Leibka bo też pracują. Hanka.
+3.  **תרגום לעברית:**
+    *   טארנוב, 15 באפריל 1940.
+    *   טווקו (טוביה) היקר. קיבלנו את הגלויה שלך וקראנו בשמחה שאתה בריא, השבח לאל. סלח לי שלא עניתי לך מיד כי לא הייתה לי סבלנות, מכיוון שאבא נסע לדמביצה לעבודה. בינתיים אין חדש בבית, אנחנו בריאים השבח לאל. מה נשמע אצלך, איך העבודה, איך מזג האוויר שם, כי אצלנו ימים גשומים. בינתיים אין לי דבר חדש לכתוב לך, בפעם הבאה אכתוב יותר. דרישת שלום חמה. דרישת שלום מיוחדת מההורים, משמקה ומלייבקה, כי גם הם עובדים. האנקה.
+
+---
+
+**מסמך 3**
+
+1.  **URL מקורי:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00025.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00025.JPG)
+2.  **תמלול (פולנית/גרמנית):**
+    *   **Adres wysyłającego:** F. Hüttner, Tarnów, Szopena 12. Deutsche Post Osten.
+    *   **Pocztówka do:** Tobias Hüttner, Ramigalas 48, Panevėžys, Littau Lietuva.
+    *   **Message:** Pani Schlesingerowa kazała Ci się zapytać czy się korespondujesz z Dorką Schlesingerem. Pozdrawia Cie serdecznie osobne pozdrowienia od Rodziców Babci wszyscy krewni Ci zasyłają życzenia noworoczne. Pozdrów kolegów i koleżankę T.S. Twoja siostra Hanka.
+3.  **תרגום לעברית:**
+    *   **כתובת השולח:** פ. היטנר, טארנוב, רחוב שופנה 12. דואר גרמני מזרח.
+    *   **גלויה אל:** טוביאס היטנר, רמיגאלאס 48, פוניבז', ליטא.
+    *   **מסר:** גברת שלזינגר ביקשה לשאול אותך אם אתה מתכתב עם דורקה שלזינגר. היא מוסרת לך דרישת שלום חמה. דרישת שלום מיוחדת מההורים, מסבתא, וכל הקרובים שולחים לך איחולים לשנה החדשה. מסור דרישת שלום לחברים ולחברה ט.ס. אחותך האנקה.
+
+---
+
+**מסמך 4**
+
+1.  **URL מקורי:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00026.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00026.JPG)
+2.  **תמלול (פולנית):**
+    *   10/X 1940.
+    *   Kochany Towku. Kartkę Twoją otrzymaliśmy i z radością my czytały, a co do tego żeś nie dostał od nas pisma to mnie bardzo dziwi, bo ja Ci odpisałam. Piszesz że sobie kupiłeś buty, i inne rzeczy, bardzo nas to cieszy, życzymy Ci żebyś sobie kupił wszystkiego najlepszego. Piszesz że tęsknisz za domem, ja Ci wierzę bo nam tęskno za Tobą. Pytałeś się jak ze świętami, narazie pierwsze święta były dosyć przykre gdyż Tatusia nie ma w domu, pracuje w Dębicy. Dziwisz się żeś nie dostał od Leibka i Szymka, gdyż oni również pracują w Dębicy. Narazie Ci nie więcej nie piszę bo nie mam cierpliwości. Życzymy Ci wszyscy do nowego roku wszystkiego najlepszego.
+3.  **תרגום לעברית:**
+    *   10 באוקטובר 1940.
+    *   טווקו היקר. קיבלנו את הגלויה שלך וקראנו אותה בשמחה, ולגבי זה שלא קיבלת מאיתנו מכתב, זה מאוד מפתיע אותי כי עניתי לך. אתה כותב שקנית לעצמך נעליים ודברים אחרים, זה מאוד משמח אותנו, אנחנו מאחלים לך שתקנה לעצמך את הטוב ביותר. אתה כותב שאתה מתגעגע הביתה, אני מאמינה לך כי אנחנו מתגעגעים אליך. שאלת איך היה בחגים, בינתיים החגים הראשונים היו די עצובים כי אבא לא בבית, הוא עובד בדמביצה. אתה מתפלא שלא קיבלת מלייבקה ושמקה, כי גם הם עובדים בדמביצה. בינתיים לא אכתוב לך יותר כי אין לי סבלנות. כולנו מאחלים לך את כל הטוב לקראת השנה החדשה.
