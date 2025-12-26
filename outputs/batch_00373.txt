@@ -1,0 +1,349 @@
+For each image provided, here is the analysis including the source URL, transcription, and Hebrew translation.
+
+---
+
+### **Image 1**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00373.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00373.JPG)
+
+**Transcription:**
+* (Perforated numbers): 135017
+* Platzkarte (Berth) hard class.
+* In case passenger interrupts the journey, the occupying berth is cancelled.
+* No refund is made on the unused portion of the trip.
+* (Handwriting): 10/IV 28, h.l.
+
+**Translation:**
+* (מספרים מחוררים): 135017
+* כרטיס מקום (דרגש לינה) מחלקה פשוטה.
+* במקרה שהנוסע מפסיק את הנסיעה, תפיסת דרגש הלינה מבוטלת.
+* לא יינתן החזר כספי על החלק שלא נוצל בנסיעה.
+* (בכתב יד): 10 באפריל 28, h.l.
+
+---
+
+### **Image 2**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00374.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00374.JPG)
+
+**Transcription:**
+* ВСЕСОЮЗНОЕ АКЦИОНЕРНОЕ О-ВО „ИНТУРИСТ“ № 000803
+* Железные дороги СССР
+* Для пассажирского поезда. Für Personenzüge
+* Для скорых и курьерск. поездов годен при условии доплаты за скор. Für Schnell-und Kurier (Express) züge gültig in Verbindung mit Schnellzugzuschlagscheinen
+* ЖЕСТКИЙ Цена Preis Руб. 44.85 № 000803
+* Годен 90 суток со дня выдачи
+* Разрешается остановка без отметки. Beliebige Fahrtunterbrechung ohne Bescheinigung
+* ОДЕССА — МОСКВА ODESSA — MOSKAU через Киев über Kiew или oder МОСКВА — ОДЕССА MOSKAU — ODESSA через Киев über Kiew
+* Бюро Путешествий Ausgabestelle. День выдачи Erster Geltungstag.
+* (Vertical text right): Отрезок детского билета. Kontrollabschnitt „Kind“. Без отрезка годен для ребенка от 5 до 10 лет.
+
+**Translation:**
+* חברה למניות כלל-ארצית "אינטוריסט" מס' 000803
+* מסילות הברזל של בריה"מ
+* עבור רכבת נוסעים.
+* עבור רכבות מהירות ואקספרס תקף בתנאי של תשלום נוסף עבור מהירות.
+* מחלקה פשוטה (קשה). מחיר רובל 44.85 מס' 000803
+* תקף ל-90 יום מיום ההנפקה.
+* מותרת עצירה ללא אישור (רישום).
+* אודסה - מוסקבה (דרך קייב) או מוסקבה - אודסה (דרך קייב).
+* משרד נסיעות. נקודת הנפקה. יום הנפקה.
+* (טקסט אנכי מימין): ספח כרטיס ילד. ללא הספח תקף לילד בגיל 5 עד 10 שנים.
+
+---
+
+### **Image 3**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00375.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00375.JPG)
+
+**Transcription:**
+* (Perforated numbers): 135021
+* (Handwriting in Hebrew/Yiddish): ליובל (possibly)
+* (Handwriting): 2/6 50
+
+**Translation:**
+* (מספרים מחוררים): 135021
+* (בכתב יד): ליובל (כנראה)
+* (בכתב יד): 2.6.50
+
+---
+
+### **Image 4**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00376.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00376.JPG)
+
+**Transcription:**
+* KVITAS Nr. 18
+* Priimta iš Hetneris Jenelis
+* Nario mokestis I mėn.
+* Lt 1 ct
+* Vienas rublis
+* 1941 m. II 7 d.
+* Parašas: Ramaškevičius
+
+**Translation:**
+* קבלה מס' 18
+* נתקבל מ- Hetneris Jenelis
+* דמי חבר עבור חודש ראשון
+* 1 ליטאס (סנט אחד)
+* רובל אחד
+* 7 בפברואר 1941
+* חתימה: רמשקביצ'יוס
+
+---
+
+### **Image 5**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00377.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00377.JPG)
+
+**Transcription:**
+* KVITAS Nr. 55
+* Priimta iš Hetneris Jenelis
+* Nario mokestis IV, V, VI, VII mėn.
+* Lt 4 ct
+* Keturi rubliai
+* 1941 m. II 7 d.
+* Parašas: Ramaškevičius
+
+**Translation:**
+* קבלה מס' 55
+* נתקבל מ- Hetneris Jenelis
+* דמי חבר עבור חודשים 4, 5, 6, 7
+* 4 ליטאס (סנט)
+* ארבעה רובלים
+* 7 בפברואר 1941
+* חתימה: רמשקביצ'יוס
+
+---
+
+### **Image 6**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00378.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00378.JPG)
+
+**Transcription:**
+* Przybył z Tarnowa (skąd przybył) na pobyt czasowy
+* dn. 24 m-ca IX 1939 r. i został zameldowany
+* w domu Nr. 6 Nr. m. 22 przy ul. Chrodens...
+* (Red stamp): 10 STYCZ. 1940
+* (Round stamp): URZĄD MIEJSKI GMINY... WYDZIAŁ EWIDENCJI LUDNOŚCI
+
+**Translation:**
+* הגיע מ-טארנוב (מקום מוצא) לשהייה זמנית
+* ביום 24 לחודש 9 (ספטמבר) 1939 ונרשם
+* בבית מס' 6 דירה מס' 22 ברחוב...
+* (חותמת אדומה): 10 בינואר 1940
+* (חותמת עגולה): משרד העירייה של המועצה... מחלקת רישום אוכלוסין
+
+---
+
+### **Image 7**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00379.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00379.JPG)
+
+**Transcription:**
+* Potwierdzenie zameldowania
+* Województwo: Wilno
+* Nazwisko: Hüttner
+* Imiona: Tobias Guttman
+* Miejsce zamieszkania: Tarnów
+
+**Translation:**
+* אישור רישום מגורים
+* מחוז: וילנה
+* שם משפחה: היטנר (Hüttner)
+* שמות פרטיים: טוביאס גוטמן
+* מקום מגורים: טארנוב
+
+---
+
+### **Image 8**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00380.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00380.JPG)
+
+**Transcription:**
+* ALLIED FORCE HEADQUARTERS, April 1945
+* SPECIAL ORDER OF THE DAY
+* Soldiers, Sailors and Airmen of the Allied Forces in the Mediterranean Theatre
+* Final victory is near. The German Forces are now very grogy...
+* H.R. Alexander, Field-Marshal, Supreme Allied Commander, Mediterranean Theatre.
+
+**Translation:**
+* מפקדת כוחות הברית, אפריל 1945
+* פקודה מיוחדת של היום
+* חיילים, מלחים וטייסים של כוחות הברית בזירת הים התיכון
+* הניצחון הסופי קרוב. הכוחות הגרמניים מותשים כעת מאוד...
+* ה.ר. אלכסנדר, פילדמרשל, מפקד עליון של כוחות הברית, זירת הים התיכון.
+
+---
+
+### **Image 9**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00381.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00381.JPG)
+
+**Transcription:**
+* USSR TRAVEL COMPANY
+* INTOURIST
+* БЮРО ПУТЕШЕСТВИЙ: AUSGABESTELLE: ISSUING OFFICE: INTOURIST-MOSKAU
+* № 47510
+* ДЕНЬ ВЫДАЧИ: ERSTER GELTUNGSTAG: FIRST DAY OF VALIDITY:
+* ЦЕНА PREIS PRICE
+
+**Translation:**
+* בריה"מ - חברת נסיעות
+* אינטוריסט
+* משרד נסיעות: נקודת הנפקה: אינטוריסט-מוסקבה
+* מס' 47510
+* יום הנפקה / יום תוקף ראשון:
+* מחיר
+
+---
+
+### **Image 10**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00382.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00382.JPG)
+
+**Transcription:**
+* Правила пользования купонными книжками
+* (List of 10 regulations regarding agency tickets in Russian)
+
+**Translation:**
+* כללים לשימוש בפנקסי קופונים
+* (רשימה של 10 תקנות הנוגעות לכרטיסי סוכנות בשפה הרוסית, כולל תוקף, מטען, והחזרים)
+
+---
+
+### **Image 11**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00383.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00383.JPG)
+
+**Transcription:**
+* Bestimmungen für die Benützung des Fahrscheinheftes
+* (List of 10 regulations in German, equivalent to the Russian version)
+
+**Translation:**
+* תקנות לשימוש בפנקס כרטיסי הנסיעה
+* (רשימה של 10 תקנות בגרמנית המקבילות לגרסה הרוסית בתמונה הקודמת)
+
+---
+
+### **Image 12**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00384.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00384.JPG)
+
+**Transcription:**
+* Regulations Concerning the Use of Agency Tickets
+* (List of 10 regulations in English, equivalent to the previous versions)
+* 16/X 1940 г. Тип. „Межкнига“. Зак. 1824. Тираж 25 000.
+
+**Translation:**
+* תקנות בנוגע לשימוש בכרטיסי סוכנות
+* (רשימה של 10 תקנות באנגלית המקבילות לגרסאות הקודמות)
+* 16 באוקטובר 1940. דפוס "מז'קניגה". הזמנה 1824. תפוצה 25,000.
+
+---
+
+### **Image 13**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00385.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00385.JPG)
+
+**Transcription:**
+* Mr. T. HUTTNER, 40 SPIEGELMAN, NATANIA.
+* DIS/1/ P/38512 DATE 10/7/46
+* Enclosed please find Certificate of Discharge No. P/38512.
+* Officer i/c Palestine Records, M.E.F.
+
+**Translation:**
+* מר ט. היטנר, רחוב שפיגלמן 40, נתניה.
+* תאריך: 10 ביולי 1946
+* רצ"ב תעודת שחרור מס' P/38512.
+* הקצין הממונה על רשומות פלשתינה (א"י), כוחות המזרח התיכון.
+
+---
+
+### **Image 14**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00386.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00386.JPG)
+
+**Transcription:**
+* מועדון החייל העברי
+* Sender: השולח:
+* Italy איטליה
+* JEWISH SOLDIERS CLUB
+
+**Translation:**
+* מועדון החייל העברי
+* השולח: איטליה
+* מועדון החיילים היהודים
+
+---
+
+### **Image 15**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00387.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00387.JPG)
+
+**Transcription:**
+* Handwritten itinerary list (places and dates):
+* Antwerpen 6.12.45, Paris 7.12.45, Praga 10.12.45, Katowice 12.12.45, Kraków 13.12.45, Tarnów 14.12.45... (continues with various cities in Europe).
+
+**Translation:**
+* רשימת מסלול נסיעה בכתב יד (מקומות ותאריכים):
+* אנטוורפן 6.12.45, פריז 7.12.45, פראג 10.12.45, קטוביץ 12.12.45, קרקוב 13.12.45, טארנוב 14.12.45... (ממשיך עם ערים שונות באירופה).
+
+---
+
+### **Image 16**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00388.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00388.JPG)
+
+**Transcription:**
+* SPERGEL HOTEL NOVA MOSKWA MOSCOU
+* СПР НОВОМОСКОВСКАЯ
+* VISA FOR PALESTINE GRANTEI : BRITISH CONSUL
+* (Handwriting in Hebrew): לשלם את זה
+
+**Translation:**
+* מלון שפרגל, נובה מוסקבה, מוסקבה
+* ויזה לפלשתינה (א"י) הוענקה: הקונסול הבריטי
+* (בכתב יד): לשלם את זה
+
+---
+
+### **Image 17**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00389.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00389.JPG)
+
+**Transcription:**
+* (Reverse side of a Russian document, contains handwritten numbers): 25, 77/-
+
+**Translation:**
+* (צד אחורי של מסמך רוסי, מכיל מספרים בכתב יד): 25, 77/-
+
+---
+
+### **Image 18**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00390.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00390.JPG)
+
+**Transcription:**
+* מדינת ישראל
+* משרד הבטחון / אגף כח אדם
+* אגוד החיילים המשוחררים בישראל
+* הנך מוזמן בזה לטכס חלוקת אות ההתנדבות שיתקיים באיצטדיון העירוני, רמת גן ביום ה', כ"ה תשרי תשכ"ב 5 באוקטובר 1961, בשעה 17.15. השערים יסגרו בשעה 17.00.
+* שער 19. בקורת. מס' 20480.
+
+**Translation:**
+* (The original text is in Hebrew).
+
+---
+
+### **Image 19**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00391.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00391.JPG)
+
+**Transcription:**
+* Compensation.
+* Subject to the limitations and conditions notified in the Post Office Guide, the registration fee of 3d. covers compensation up to £5 for loss or damage of an Inland Registered Letter, and up to £2 for the entire loss of a Registered Letter sent to a place abroad.
+
+**Translation:**
+* פיצויים.
+* בכפוף למגבלות ולתנאים המפורטים במדריך הדואר, דמי הרישום בסך 3 פני מכסים פיצוי של עד 5 לירות עבור אובדן או נזק למכתב רשום פנימי, ועד 2 לירות עבור אובדן מלא של מכתב רשום שנשלח לחו"ל.
+
+---
+
+### **Image 20**
+**Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00392.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00392.JPG)
+
+**Transcription:**
+* REGISTERED LETTER.
+* THIS LETTER MUST BE GIVEN TO AN OFFICER OF THE POST OFFICE TO BE REGISTERED, AND A RECEIPT OBTAINED FOR IT.
+* THE ADDRESS MUST BE WRITTEN ON THIS SIDE.
+* REGISTRATION THREE PENCE (with King George VI profile).
+* FEE PAID.
+
+**Translation:**
+* מכתב רשום.
+* חובה למסור מכתב זה לפקיד דואר לצורך רישום, ולקבל על כך קבלה.
+* יש לכתוב את הכתובת בצד זה.
+* רישום שלושה פני (עם דמות המלך ג'ורג' השישי).
+* האגרה שולמה.
