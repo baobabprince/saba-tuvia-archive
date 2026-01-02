@@ -9,6 +9,7 @@ import argparse
 # הגדרות
 API_KEY = os.getenv("GEMINI_API_KEY")
 IMAGES_TO_RECREATE_FILE = Path("images_to_recreate.txt")
+RECREATED_TRACKER_FILE = Path("recreated_tracker.txt") # New tracker file
 BASE_URL = "https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/"
 MODEL_ID = "gemini-3-flash-preview"
 BATCH_SIZE = 20
@@ -41,14 +42,21 @@ def main():
         print(f"{IMAGES_TO_RECREATE_FILE} not found.")
         return
 
+    # Read already recreated files
+    if not RECREATED_TRACKER_FILE.exists(): RECREATED_TRACKER_FILE.touch()
+    recreated = set(RECREATED_TRACKER_FILE.read_text(encoding="utf-8").splitlines())
+
     with open(IMAGES_TO_RECREATE_FILE, "r", encoding="utf-8") as f:
-        to_process_files = [line.strip() for line in f if line.strip()]
+        all_images_to_process = [line.strip() for line in f if line.strip()]
+
+    # Filter out already recreated images
+    to_process_files = [img for img in all_images_to_process if img not in recreated]
 
     if args.max_images > 0:
         to_process_files = to_process_files[:args.max_images]
 
     if not to_process_files:
-        print("No images to recreate.")
+        print("No new images to recreate.")
         return
 
     # Process files in batches
@@ -115,6 +123,11 @@ def main():
             timestamp = int(first_image_name.split('.')[0])
             output_path = output_dir / f"batch_{timestamp:05d}.txt"
             output_path.write_text(response.text, encoding="utf-8")
+
+            # Update recreated tracker file
+            with open(RECREATED_TRACKER_FILE, "a", encoding="utf-8") as f:
+                for item in downloaded_data:
+                    f.write(f"{item['name']}\n")
             
             print(f"Success! Output saved to {output_path}")
 
