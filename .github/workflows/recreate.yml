@@ -31,7 +31,7 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           if [ -d "outputs/recreated" ] && [ "$(ls -A outputs/recreated)" ]; then
-            git add outputs/recreated/
+            git add outputs/recreated/ recreated_tracker.txt
             git commit -m "Recreate images from list" || exit 0
             git pull --rebase origin master
             git push
