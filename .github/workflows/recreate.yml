@@ -1,6 +1,12 @@
 name: Recreate Images from List
 on:
-  workflow_dispatch:    # Allows manual execution
+  workflow_dispatch:
+    inputs:
+      max_images_to_process:
+        description: 'Maximum number of images to process (0 for all, default 20)'
+        required: false
+        default: '20'
+        type: 'string'
 
 jobs:
   process:
@@ -18,7 +24,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           pip install google-genai requests
-          python recreate.py
+          python recreate.py --max-images ${{ github.event.inputs.max_images_to_process }}
 
       - name: Commit and Push
         run: |
