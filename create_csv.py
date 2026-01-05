@@ -40,7 +40,7 @@ def parse_line_by_line(file_path):
                 if len(parts) > 1:
                     content_after_header = parts[1].strip()
                     if content_after_header:
-                        current_data['transcription'] += content_after_header + '\n'
+                        current_data['transcription'] += content_after_header
 
 
         elif "Translation" in line:
@@ -52,13 +52,13 @@ def parse_line_by_line(file_path):
                 if len(parts) > 1:
                     content_after_header = parts[1].strip()
                     if content_after_header:
-                        current_data['translation'] += content_after_header + '\n'
+                        current_data['translation'] += content_after_header
 
         elif in_transcription:
-            current_data['transcription'] += line + '\n'
+            current_data['transcription'] += ' ' + line
         
         elif in_translation:
-            current_data['translation'] += line + '\n'
+            current_data['translation'] += ' ' + line
 
     if current_data:
         all_data.append(current_data)
