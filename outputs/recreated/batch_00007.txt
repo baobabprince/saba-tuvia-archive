@@ -1,64 +1,52 @@
-להלן ניתוח הגלויה מהתמונה:
+להלן ניתוח של הגלויה המוצגת בתמונה:
 
-**1. קישור מקורי:**
-https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00007.JPG
+**1. קישור למקור:**
+[https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00007.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00007.JPG)
 
 **2. תעתוק (Transcription):**
 
-**Absender (שולח):**
-*   Absender: **Leib Rosenzweig.**
-*   **Tarnów Osten**
-*   *Wohnort, auch Zustell- oder Leitpostamt*
-*   **ul. Zamkowa 3.**
-*   *Straße, Hausnummer, Gebäudeteil, Stockwerk od. Postschließfachnummer*
+**Absender:** Leib Rosenzweig.
+**Tarnow Osten**
+Wohnort, auch Zustell- oder Leitpostamt
+**ul. Zamkowa 2.**
+Straße, Hausnummer, Gebäudeteil, Stockwerk od. Postschließfachnummer
 
-**Message (תוכן ההודעה):**
-*   **Oczekujemy rychłej**
-*   **odpowiedzi.**
-*   **Osobiste pozdrowienia**
-*   **dla Baroka.**
+**Oczekujemy rychłej**
+**odpowiedzi.**
+**Osobiste pozdrowienia**
+**dla Baroka.**
 
-**Recipient (נמען):**
-*   **Postkarte**
-*   **a**
-*   **Kibus „Haderech“**
-*   **dla T. Hüttnera**
-*   **Vilnius**
-*   **Kijowska 9-re 4/37**
-*   *Straße, Hausnummer, Gebäudeteil, Stockwerk oder Postschließfachnummer*
-*   **Lietuva**
+[Red circular stamp: Auslandbriefprüfstelle Königsberg (pr)]
 
-**Stamps & Postmarks (בולים וחותמות):**
-*   Stamp: **30 Groschen 30 - Deutsche Post OSTEN**
-*   Postmark: **TARNÓW 30.12.41**
-*   Censorship Stamp (bottom left): **Auslandsbriefprüfstelle Königsberg (pr)** (with Nazi eagle and swastika)
+**Postkarte**
+**a**
+**Kibus „Haderech“**
+**dla T. Hüttnera**
+**Vilnius**
+**Kijowska 9 - m 4/37**
+Straße, Hausnummer, Gebäudeteil, Stockwerk oder Postschließfachnummer
+**Lietuva**
 
 ---
 
 **3. תרגום לעברית:**
 
-**פרטי השולח:**
-*   שולח: **לייב רוזנצווייג.**
-*   **טארנוב, מזרח.**
-*   *מקום מגורים, גם יחידת דואר למסירה או הובלה.*
-*   **רחוב זאמקובה 3.**
-*   *רחוב, מספר בית, חלק בניין, קומה או מספר תא דואר.*
+**שולח:** לייב רוזנצווייג.
+**טרנוב, מזרח** (Tarnów Osten - אזור תחת כיבוש גרמני)
+מקום מגורים, גם דואר מסירה או ניתוב
+**רחוב זמקובה (Zamkowa) 2.**
+רחוב, מספר בית, חלק מהבניין, קומה או מספר תיבת דואר
 
-**גוף ההודעה:**
-*   **אנו מצפים לתשובה מהירה.**
-*   **דרישת שלום אישית לבארוק (Baroka).**
+**אנו מצפים לתשובה מהירה.**
+**דרישת שלום אישית לברוך.**
 
-**פרטי הנמען:**
-*   **גלויה**
-*   לכבוד
-*   **קיבוץ "הדרך"**
-*   **עבור ט. היטנר (T. Hüttnera)**
-*   **וילנה**
-*   **רחוב קייבסקה 9 (דירה 4/37)**
-*   *רחוב, מספר בית, חלק בניין, קומה או מספר תא דואר.*
-*   **ליטא**
+[חותמת אדומה (צנזורה גרמנית): תחנת ביקורת מכתבי חוץ, קניגסברג]
 
-**חותמות ובולים:**
-*   בול: **30 גרוש - דואר גרמני "מזרח" (Osten)**
-*   חותמת דואר: **טארנוב, 30.12.41**
-*   חותמת צנזורה (למטה משמאל): **לשכת ביקורת מכתבי חוץ, קניגסברג (פרוסיה)** (מוטבעת עם סמל הנשר והצלב הקרס)
+**גלויה**
+**אל**
+**קיבוץ "הדרך"**
+**עבור ט. היטנר (T. Hüttnera)**
+**וילנה**
+**רחוב קייבסקה (Kijowska) 9 - דירה 4/37**
+רחוב, מספר בית, חלק מהבניין, קומה או מספר תיבת דואר
+**ליטא**
