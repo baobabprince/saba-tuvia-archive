@@ -1,32 +1,32 @@
-#name: Gemini Fast Parallel Pipeline
-#on:
-#  schedule:
-#    - cron: '0 21,22,23 * * *'
-#  workflow_dispatch:    # מאפשר הרצה ידנית בלחיצת כפתור
+name: Gemini Fast Parallel Pipeline
+on:
+  schedule:
+    - cron: '0 8,20 * * *'
+  workflow_dispatch:    # מאפשר הרצה ידנית בלחיצת כפתור
 
-#jobs:
-#  process:
-#    runs-on: ubuntu-latest
-#    permissions:
-#      contents: write
-#    steps:
-#      - name: Checkout Code
-#        uses: actions/checkout@v4
-#        with:
-#          fetch-depth: 1 # מוריד רק את ה-Snapshot הנוכחי (מהיר מאוד)
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1 # מוריד רק את ה-Snapshot הנוכחי (מהיר מאוד)
 
-#      - name: Install and Run
-#        env:
-#          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-#        run: |
-#          pip install google-genai requests
-#          python script.py
+      - name: Install and Run
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          pip install google-genai requests
+          python script.py
 
-#      - name: Commit and Push
-#        run: |
-#          git config user.name "GitHub Action"
-#          git config user.email "action@github.com"
-#          git add processed_files.txt outputs/
-#          git commit -m "Update translations $(date +'%Y-%m-%d')" || exit 0
-#          git pull --rebase origin master
-#          git push
+      - name: Commit and Push
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add processed_files.txt outputs/
+          git commit -m "Update translations $(date +'%Y-%m-%d')" || exit 0
+          git pull --rebase origin master
+          git push

@@ -9,8 +9,8 @@ from google.genai import types
 API_KEY = os.getenv("GEMINI_API_KEY")
 TRACKER_FILE = Path("processed_files.txt")
 BASE_URL = "https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/"
-MODEL_ID = "gemini-3-flash-preview"
-BATCH_SIZE = 20
+MODEL_ID = "gemini-3.1-pro-preview"
+BATCH_SIZE = 5
 
 client = genai.Client(api_key=API_KEY)
 
@@ -60,12 +60,11 @@ def main():
         return
 
     # בניית רשימת התכנים לשליחה (פרומפט -> תמונה + שם/URL -> תמונה + שם/URL...)
-    # 
     api_contents = [
         """Analyze the provided images. For EACH image, you MUST provide:
         1. The Original URL (provided in the text next to the image).
-        2. Transcription: Exact text from the image.
-        3. Translation: Fluent Hebrew translation.
+        2. Transcription: Transcribe the text from the image with extreme accuracy. It is crucial that the transcription is a verbatim copy of the source text, including all words, punctuation, and formatting. Do not skip any words or phrases.
+        3. Translation: Fluent Hebrew translation of the transcribed text.
         
         Format the output clearly for each document."""
     ]
