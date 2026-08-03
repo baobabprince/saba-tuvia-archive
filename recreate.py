@@ -11,10 +11,8 @@ API_KEY = os.getenv("GEMINI_API_KEY")
 IMAGES_TO_RECREATE_FILE = Path("images_to_recreate.txt")
 RECREATED_TRACKER_FILE = Path("recreated_tracker.txt") # New tracker file
 BASE_URL = "https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/"
-MODEL_ID = "gemini-3.1-pro-preview"
+DEFAULT_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash")
 BATCH_SIZE = 5
-
-client = genai.Client(api_key=API_KEY)
 
 def download_worker(file_name):
     """מוריד תמונה בודדת ב-Thread נפרד ומחזיר גם את ה-URL"""
@@ -36,7 +34,19 @@ def main():
     parser = argparse.ArgumentParser(description="Recreate images from a list.")
     parser.add_argument("--dry-run", action="store_true", help="Simulate the script without calling the API.")
     parser.add_argument("--max-images", type=int, default=0, help="Maximum number of images to process (0 for all).")
+    parser.add_argument("--model", type=str, default=DEFAULT_MODEL, help="The Gemini model ID to use.")
+    parser.add_argument("--batch-size", type=int, default=BATCH_SIZE, help="Number of images to process in this batch.")
     args = parser.parse_args()
+
+    model_id = args.model
+    batch_size = args.batch_size
+
+    if not args.dry_run:
+        if not API_KEY:
+            raise ValueError("GEMINI_API_KEY environment variable is not set.")
+        client = genai.Client(api_key=API_KEY)
+    else:
+        client = None
 
     if not IMAGES_TO_RECREATE_FILE.exists():
         print(f"{IMAGES_TO_RECREATE_FILE} not found.")
@@ -60,10 +70,10 @@ def main():
         return
 
     # Process files in batches
-    for i in range(0, len(to_process_files), BATCH_SIZE):
-        batch_files = to_process_files[i:i + BATCH_SIZE]
+    for i in range(0, len(to_process_files), batch_size):
+        batch_files = to_process_files[i:i + batch_size]
 
-        print(f"Processing batch {i//BATCH_SIZE + 1} with {len(batch_files)} images.")
+        print(f"Processing batch {i//batch_size + 1} with {len(batch_files)} images.")
 
         if args.dry_run:
             print("--- DRY RUN ---")
@@ -85,7 +95,7 @@ def main():
         # הורדה מקבילית
         print(f"Downloading {len(batch_files)} images in parallel...")
         downloaded_data = []
-        with concurrent.futures.ThreadPoolExecutor(max_workers=BATCH_SIZE) as executor:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=batch_size) as executor:
             results = list(executor.map(download_worker, batch_files))
         
         # סינון תוצאות
@@ -109,9 +119,9 @@ def main():
             api_contents.append(types.Part.from_bytes(data=item['content'], mime_type="image/jpeg"))
 
         try:
-            print(f"Sending batch to {MODEL_ID}...")
+            print(f"Sending batch to {model_id}...")
             response = client.models.generate_content(
-                model=MODEL_ID,
+                model=model_id,
                 contents=api_contents
             )
             
