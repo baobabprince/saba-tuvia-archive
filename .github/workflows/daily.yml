@@ -26,6 +26,7 @@ jobs:
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
+          mkdir -p outputs
           git add processed_files.txt outputs/
           git commit -m "Update translations $(date +'%Y-%m-%d')" || exit 0
           git pull --rebase origin master
