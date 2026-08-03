@@ -4,15 +4,14 @@ import concurrent.futures
 from pathlib import Path
 from google import genai
 from google.genai import types
+import argparse
 
 # הגדרות
 API_KEY = os.getenv("GEMINI_API_KEY")
 TRACKER_FILE = Path("processed_files.txt")
 BASE_URL = "https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/"
-MODEL_ID = "gemini-3.1-pro-preview"
+DEFAULT_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash")
 BATCH_SIZE = 5
-
-client = genai.Client(api_key=API_KEY)
 
 def download_worker(index):
     """מוריד תמונה בודדת ב-Thread נפרד ומחזיר גם את ה-URL"""
@@ -32,12 +31,24 @@ def download_worker(index):
     return None
 
 def main():
+    parser = argparse.ArgumentParser(description="Download and process Yad Vashem document images.")
+    parser.add_argument("--model", type=str, default=DEFAULT_MODEL, help="The Gemini model ID to use.")
+    parser.add_argument("--batch-size", type=int, default=BATCH_SIZE, help="Number of images to process in this batch.")
+    args = parser.parse_args()
+
+    model_id = args.model
+    batch_size = args.batch_size
+
+    if not API_KEY:
+        raise ValueError("GEMINI_API_KEY environment variable is not set.")
+    client = genai.Client(api_key=API_KEY)
+
     if not TRACKER_FILE.exists(): TRACKER_FILE.touch()
     processed = set(TRACKER_FILE.read_text(encoding="utf-8").splitlines())
     
     to_process_indices = []
     idx = 1
-    while len(to_process_indices) < BATCH_SIZE and idx <= 700:
+    while len(to_process_indices) < batch_size and idx <= 700:
         name = f"{idx:05d}.JPG"
         if name not in processed:
             to_process_indices.append(idx)
@@ -50,7 +61,7 @@ def main():
     # הורדה מקבילית
     print(f"Downloading {len(to_process_indices)} images in parallel...")
     downloaded_data = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=BATCH_SIZE) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=batch_size) as executor:
         results = list(executor.map(download_worker, to_process_indices))
     
     # סינון תוצאות
@@ -75,9 +86,9 @@ def main():
         api_contents.append(types.Part.from_bytes(data=item['content'], mime_type="image/jpeg"))
 
     try:
-        print(f"Sending batch to {MODEL_ID}...")
+        print(f"Sending batch to {model_id}...")
         response = client.models.generate_content(
-            model=MODEL_ID,
+            model=model_id,
             contents=api_contents
         )
         

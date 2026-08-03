@@ -1,5 +1,5 @@
 📜 Yad Vashem Document Processor (AI-Powered)
-מערכת אוטומטית מבוססת Gemini 3.0 Flash לעיבוד, תמלול ותרגום מסמכים היסטוריים מארכיון יד ושם. המערכת רצה באופן יומי, מושכת תמונות ישירות מהשרת, ומפיקה פלט הכולל תמלול מקורי ותרגום לעברית.
+מערכת אוטומטית מבוססת Gemini 3.5 Flash לעיבוד, תמלול ותרגום מסמכים היסטוריים מארכיון יד ושם. המערכת רצה באופן יומי, מושכת תמונות ישירות מהשרת, ומפיקה פלט הכולל תמלול מקורי ותרגום לעברית.
 
 🚀 תכונות עיקריות (Speed Optimizations)
 Zero-Storage Build: הפרויקט לא שומר תמונות ב-Git. התמונות מורדות בזמן אמת לזיכרון ה-Runner, מה ששומר על Repository קל ו-Checkout מהיר (פחות מ-2 שניות).
@@ -13,7 +13,7 @@ Incremental Updates: מנגנון מעקב (processed_files.txt) המבטיח ש
 🛠 טכנולוגיות
 Language: Python 3.11
 
-AI Model: Gemini 2.0 Flash (via google-genai)
+AI Model: Gemini 3.5 Flash (via google-genai) - Fully configurable via command line or environment variables.
 
 Automation: GitHub Actions
 
@@ -44,7 +44,8 @@ pip install google-genai requests
 export GEMINI_API_KEY="your_api_key_here"
 
 # הרצה
-python script.py
+# ניתן להגדיר מודל מותאם אישית באמצעות משתנה סביבה או ארגומנט --model (ברירת המחדל היא gemini-3.5-flash)
+python script.py --model gemini-3.5-flash
 📝 פורמט הפלט
 כל קובץ בתיקיית outputs ייראה כך:
 
