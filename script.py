@@ -5,6 +5,7 @@ from pathlib import Path
 from google import genai
 from google.genai import types
 import argparse
+import time
 
 # הגדרות
 API_KEY = os.getenv("GEMINI_API_KEY")
@@ -12,6 +13,24 @@ TRACKER_FILE = Path("processed_files.txt")
 BASE_URL = "https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/"
 DEFAULT_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.5-flash")
 BATCH_SIZE = 5
+
+def generate_content_with_retry(client, model, contents, max_retries=5, initial_delay=2, backoff_factor=2):
+    """
+    Calls client.models.generate_content with exponential backoff for transient errors (e.g., 503, 429).
+    """
+    delay = initial_delay
+    for attempt in range(1, max_retries + 1):
+        try:
+            return client.models.generate_content(model=model, contents=contents)
+        except Exception as e:
+            err_str = str(e).upper()
+            is_transient = any(keyword in err_str for keyword in ["503", "429", "UNAVAILABLE", "RESOURCE_EXHAUSTED", "LIMIT EXCEEDED", "QUOTA EXCEEDED"])
+            if is_transient and attempt < max_retries:
+                print(f"Transient API Error on attempt {attempt}/{max_retries}: {e}. Retrying in {delay} seconds...")
+                time.sleep(delay)
+                delay *= backoff_factor
+            else:
+                raise e
 
 def download_worker(index):
     """מוריד תמונה בודדת ב-Thread נפרד ומחזיר גם את ה-URL"""
@@ -34,14 +53,19 @@ def main():
     parser = argparse.ArgumentParser(description="Download and process Yad Vashem document images.")
     parser.add_argument("--model", type=str, default=DEFAULT_MODEL, help="The Gemini model ID to use.")
     parser.add_argument("--batch-size", type=int, default=BATCH_SIZE, help="Number of images to process in this batch.")
+    parser.add_argument("--max-retries", type=int, default=5, help="Number of retries for transient API errors.")
     args = parser.parse_args()
 
     model_id = args.model
     batch_size = args.batch_size
+    max_retries = args.max_retries
 
     if not API_KEY:
         raise ValueError("GEMINI_API_KEY environment variable is not set.")
     client = genai.Client(api_key=API_KEY)
+
+    output_dir = Path("outputs")
+    output_dir.mkdir(exist_ok=True)
 
     if not TRACKER_FILE.exists(): TRACKER_FILE.touch()
     processed = set(TRACKER_FILE.read_text(encoding="utf-8").splitlines())
@@ -87,9 +111,11 @@ def main():
 
     try:
         print(f"Sending batch to {model_id}...")
-        response = client.models.generate_content(
+        response = generate_content_with_retry(
+            client=client,
             model=model_id,
-            contents=api_contents
+            contents=api_contents,
+            max_retries=max_retries
         )
         
         # שמירה
