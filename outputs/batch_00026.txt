@@ -1,0 +1,262 @@
+Here is the analysis, transcription, and translation for each of the provided images:
+
+---
+
+### **Document 1**
+
+* **Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00026.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00026.JPG)
+
+#### **Transcription (Polish)**
+```text
+Kochany Towku, dn 10/X 1940
+Kartkę Twoją otrzymaliśmy
+i z radością my czytały, a co do
+tego żeś nie dostał od nas pisma to
+mnie bardzo dziwi, bo ja Ci odpisa-
+łam. Piszesz że sobie kupiłeś
+buty, i inne rzeczy, bardzo nas
+to cieszy, życzymy Ci żebyś sobie
+kupił wszystkiego najlepszego.
+Piszesz że tęsknisz za domem,
+ja Ci wierzę bo nam tęskno za
+Tobą. Pytałeś się jak ze świętami,
+narazie pierwsze święta, były
+dosyć przykre gdyż Tatusia nie
+ma w domu, pracuje w Dębicy,
+dziwisz się żeś nie dostał od Leibka
+i Szymka, gdyż oni również pracu-
+ją w Dębicy. Narazie Ci nie więcej
+nie piszę bo nie mam cierpliwości
+Życzymy Ci wszyscy do nowego
+roku wszystkiego najlepszego
+```
+
+#### **Translation (Hebrew)**
+```text
+טובק היקר, יום 10 באוקטובר 1940
+קיבלנו את הגלויה שלך וקראנו אותה בשמחה, ובאשר לכך שלא קיבלת מאיתנו מכתב, זה מאוד מפתיע אותי, כי עניתי לך. 
+אתה כותב שקנית לעצמך נעליים ודברים אחרים, זה מאוד משמח אותנו, אנו מאחלים לך שתרכוש לעצמך את כל הטוב ביותר.
+אתה כותב שאתה מתגעגע הביתה, אני מאמינה לך כי גם אנו מתגעגעים אליך. שאלת איך עברו החגים, בינתיים החגים הראשונים היו די עצובים [קשים] מכיוון שאבא לא בבית, הוא עובד בדמביצה (Dębica).
+אתה מתפלא שלא קיבלת מכתב מלייבק ושמשון (Szymek), מכיוון שהם גם עובדים בדמביצה. בינתיים איני כותבת לך יותר כי אין לי סבלנות.
+כולנו מאחלים לך לשנה החדשה את כל הטוב ביותר.
+```
+
+---
+
+### **Document 2**
+
+* **Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00027.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00027.JPG)
+
+#### **Transcription (German-Yiddish & Polish)**
+```text
+Absender: Majer Griess
+          Tuchowska strasse 28
+Wohnort, auch Zustell- oder Leitpostamt: Tarnów
+
+[Address field]:
+Postkarte
+Kibuc Baderech
+Damast dla Hüttnera
+Vilnius
+Szeptyckiego 10/8
+Litwa
+
+[Left message]:
+eine Karte geschrieben
+auch haben wir dich
+geheisen grüssen Szimek
+Komin uss auch hast
+grüse von Mali Boron
+Wir grüssen und küssen
+dich sehr herzlich
+fon di ganze Familie
+jeden bezonder und
+fon die Babie auch
+fon Hanni und Bertheli
+deine schwesteren kissen
+grissen dich die l. Mütter
+dein Vater sehr fiel
+Mayer bitte baldige antwort
+
+[Left margin vertical text]:
+auch wolst schreiben wie lang es geht das
+```
+
+#### **Translation (Hebrew)**
+```text
+שולח: מאיר גריס
+      רחוב טוכובסקה 28
+      טרנוב
+
+נמען:
+גלויית דואר
+קיבוץ בדרך
+דאמאסט עבור היטנר
+וילנה
+שפטיצקייגו 10/8
+ליטא
+
+[הודעה בצד שמאל]:
+כתבנו גלויה, גם ביקשנו למסור לך דרישת שלום משמעק... דרישת שלום ממאלי בורון. אנו מוסרים לך דרישת שלום ומנשקים אותך בחום רב מכל המשפחה, כל אחד בנפרד, וגם מסבתא, ומחני וברטלי, אחיותיך מנשקות ומברכות אותך, אמך האהובה ואביך מאוד [מוסרים דרישת שלום], מאיר, אנא השב בהקדם.
+
+[בשוליים האנכיים]:
+רצית גם לכתוב כמה זמן זה נמשך...
+```
+
+---
+
+### **Document 3**
+
+* **Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00028.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00028.JPG)
+
+#### **Transcription (German-Yiddish in Latin script)**
+```text
+Tarnów den 22/I 940
+Lieber Sohn Towek
+Deine Karte haben wir fon dir
+erhalten mit grose freide gelesen
+aber wir haben gewart folle fier
+wochen. Lieber Towek bitte uns
+cu schreiben ob du hast alles
+was du hast dir fon der heime
+mitgenomen das zeigert aich?
+auch wolst uns schreiben ob du
+hast schon bekommen antwort
+fom Amerika und du wolst
+zei schreiben das sollen...
+[interlined: di Babie schreiben fom Rom...]
+Towek schreiben das ich habe fönge
+woche einen grose besorgen
+fon die Schlesinger weiter hat
+einen brief ahein geschrieben
+wolst uns schreiben du bist mit
+Schlesingern cusamen dan,
+Ich dir schreiben das Wujciu Leibis
+hat chasene gehat und Wujciu Majer
+Majer auch schon chasene gehat mit
+diworin Riweli Schwegerin Erste fone
+die grabürki und bei uns ist mehr
+neies Gott sei dank gesund und
+Leibis mit Hime haben
+```
+
+#### **Translation (Hebrew)**
+```text
+טרנוב, 22 בינואר 1940
+בני היקר טובק,
+קיבלנו את הגלויה שלך וקראנו אותה בשמחה גדולה, אך חיכינו לה ארבעה שבועות שלמים. טובק היקר, אנא כתוב לנו אם יש לך את כל מה שלקחת איתך מהבית...
+כמו כן, כתוב לנו אם כבר קיבלת תשובה מאמריקה, ורצית לכתוב שעל סבתא לכתוב...
+טובק, רציתי לכתוב שהיה לי בשבוע שעבר דאגה גדולה מחמת שלזינגר, שכתב מכתב הביתה. אנא כתוב לנו אם אתה נמצא יחד עם שלזינגר...
+אני כותב לך שדוד לייביש התחתן [עשה חתונה] וגם דוד מאיר כבר התחתן עם דבורה ריבלי, גיסתו של ארנסט... ואצלנו אין חדש, תודה לאל כולם בריאים...
+```
+
+---
+
+### **Document 4**
+
+* **Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00029.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00029.JPG)
+
+#### **Transcription (Polish)**
+```text
+[Sender]:
+Majer Griess
+Tarnów
+Tuchowska N.28
+
+[Recipient]:
+W. P.
+Tobias Hüttner
+G. Jaffe
+Panevėžys
+Ramigalos 48
+Litwa
+
+[Message left side]:
+osobne podziękowanie
+i pozdrowienie serdeczne
+od twojego Tatusia całuje
+cię bądź zdrowy najdroższy
+
+Babie poczęstowałyśmy trochę
+miodu a Wujciowi J. kawałek
+kiełbasy za który ci bardzo
+dziękuje. Pozdrawiam Cię
+serdecznie osobne pozdro-
+wienie od K. mamusi Ba-
+bi Babci Wujcia Cioci i wszy-
+scy dopytują się o pozdro-
+wienie. Bywaj zdrów
+życzy Ci Twa, myśli
+szczera siostra
+Hanka.
+```
+
+#### **Translation (Hebrew)**
+```text
+[שולח]:
+מאיר גריס
+טרנוב
+טוכובסקה 28
+
+[נמען]:
+לכבוד האדון הנכבד
+טוביאס היטנר
+אצל ג. יאפה
+פוניבז' (Panevėžys)
+רחוב רמיגלוס 48
+ליטא
+
+[הודעה בצד שמאל]:
+תודה מיוחדת ודרישת שלום חמה מאביך, המנשק אותך. היה בריא, יקרי ביותר.
+
+כיבדנו את סבתא בקצת דבש, ואת דוד י. בחתיכת נקניק, שעליה הוא מודה לך מאוד. אני מוסרת לך דרישת שלום חמה, ודרישת שלום מיוחדת מאמא היקרה, מסבתא, מהדוד, מהדודה, וכולם שואלים ודורשים בשלומך. היה בריא.
+מאחלת לך אחותך הכנה, החושבת עליך,
+האנקה [חנה].
+```
+
+---
+
+### **Document 5**
+
+* **Original URL:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00030.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00030.JPG)
+
+#### **Transcription (Polish)**
+```text
+Kochany Towku. Tarnów. 7/III 1940
+Mogę Ci zawiadomić żeś my dostały
+paczkę wraz z kartką za którą Ci serde-
+cznie dziękujemy, nie masz wprost
+pojęcia jak się mamusia ucieszyła,
+ale jest nam bardzo przykro żeś nad-
+wyrężał się ponad siły, mamusia
+się trochę zmartwiła, bo zdaje się
+jej, że nie byłeś w stanie tego pakunku
+posłać. To coś posłał wszystko przyszło
+w najlepszym porządku, tylko co herba-
+ta brakowała, co do soku chciałam bym
+się zapytać czy można użyć na święta-
+lue, bo mamusia chce schować na święta
+Kochany Towku piszesz że starasz
+się na wyjazd, wrecz to cię proszę żebyś
+napisał dokąd, gdzie tylko pojedziesz
+żeby Pan Bóg dopomógł na każdym
+kroku, a jak gdzieś pojedziesz, nie
+zatrzymuj poczty, bo przychodu ta
+chwila... przyjście poczta od Ciebie
+to mamusia strasznie oczekuje.
+W domu Bogu dzięki wszystko zdrowe.
+Teraz nie mam więcej co pisać
+drugim razem napiszę
+```
+
+#### **Translation (Hebrew)**
+```text
+טובק היקר. טרנוב. 7 במרץ 1940
+אני יכולה להודיע לך שקיבלנו את החבילה יחד עם הגלויה, ועליה אנו מודות לך מקרב לב. אין לך מושג כמה אמא שמחה, אך מאוד חבל לנו שהתאמצת מעבר לכוחותיך. אמא קצת דאגה, כי נדמה לה שלא היית במצב המאפשר לשלוח חבילה כזו. 
+
+מה ששלחת הגיע כולו בסדר מופתי, רק התה היה חסר. לגבי המיץ, רציתי לשאול אם אפשר להשתמש בו לחגים, כי אמא רוצה לשמור אותו לחגים.
+
+טובק היקר, אתה כותב שאתה משתדל לנסוע, לכן אני מבקשת ממך בכל לשון של בקשה שתכתוב לאן. בכל אשר תלך, מי ייתן ואלוהים יעזור לך בכל צעד. וכאשר תסע לאנשהו, אל תעכב את הדואר, כי אמא מחכה בקוצר רוח לרגע שבו יגיע מכתב ממך.
+
+בבית, השבח לאל, כולם בריאים. כעת אין לי עוד מה לכתוב, אכתוב בפעם הבאה.
+```
