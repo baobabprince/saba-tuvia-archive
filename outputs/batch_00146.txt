@@ -1,0 +1,138 @@
+Here is the analysis of the provided images, including transcriptions and translations:
+
+---
+
+### **Image 1**
+* **Original URL:** https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00146.JPG
+
+#### **Transcription:**
+```
+M. I. Buc, Lawerchaw
+(dla Tobiasza Hüttnera)
+
+Panevežys
+Kranto-g-ve 13
+
+Lietuva
+```
+
+#### **Translation (Hebrew):**
+```
+מ. י. בוץ, לאוורכוב
+(עבור טוביאש היטנר)
+
+פוניבז' (Panevėžys)
+רחוב קראנטו 13
+
+ליטא
+```
+
+---
+
+### **Image 2**
+* **Original URL:** https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00147.JPG
+
+#### **Transcription:**
+```
+G. R. Tarnów
+
+Geöffnet
+
+[Stamps]:
+Oberkommando der Wehrmacht
+```
+
+#### **Translation (Hebrew):**
+```
+ג. ר. טרנוב
+
+נפתח
+
+[חותמות]:
+הפיקוד העליון של הוורמאכט (Oberkommando der Wehrmacht)
+```
+
+---
+
+### **Image 3**
+* **Original URL:** https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00148.JPG
+
+#### **Transcription:**
+```
+Lietuva
+
+Ponemėžys
+Kranto g-ve 13.
+
+dla Tobiasza H.
+```
+
+#### **Translation (Hebrew):**
+```
+ליטא
+
+פוניבז' (Ponemėžys)
+רחוב קראנטו 13.
+
+עבור טוביאש ה'.
+```
+
+---
+
+### **Image 4**
+* **Original URL:** https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00149.JPG
+
+#### **Transcription:**
+```
+od Szymona
+
+Geöffnet     Geöffnet
+
+[Stamps]:
+Oberkommando der Wehrmacht
+```
+
+#### **Translation (Hebrew):**
+```
+משמעון
+
+נפתח        נפתח
+
+[חותמות]:
+הפיקוד העליון של הוורמאכט (Oberkommando der Wehrmacht)
+```
+
+---
+
+### **Image 5**
+* **Original URL:** https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00150.JPG
+
+#### **Transcription:**
+```
+"U"
+Jozef D. dla Tobiasza H.
+
+Vilnius
+ul. Szeptyckiego 1/8
+
+Lietuva
+
+[Stamp]:
+TARNÓW
+08.4.40.-15
+```
+
+#### **Translation (Hebrew):**
+```
+"U"
+יוזף ד' עבור טוביאש ה'.
+
+וילנה
+רחוב שפטיצקייגו (Szeptyckiego) 1/8
+
+ליטא
+
+[חותמת]:
+טרנוב (Tarnów)
+08.4.40.-15
+```
