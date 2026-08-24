@@ -1,0 +1,244 @@
+להלן ניתוח של חמשת התמונות, הכולל את כתובת ה-URL המקורית של כל תמונה, העתקה מדויקת (טרנסקריפציה) של הטקסט, ותרגום שוטף לעברית.
+
+---
+
+### **תמונה 1**
+
+* **כתובת URL מקורית:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00211.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00211.JPG)
+* **Transcription (העתקה):** 
+  *(אין טקסט בתמונה זו. התמונה מציגה את הכריכה החיצונית של הפנקס)*
+* **Translation (תרגום):**
+  *(אין טקסט בתמונה זו)*
+
+---
+
+### **תמונה 2**
+
+* **כתובת URL מקורית:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00212.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00212.JPG)
+* **Transcription (העתקה):**
+  **עמוד שמאלי:**
+  ```
+  30 גלינמן
+  Szwander
+  Kosów hucul.
+  Bystra 24
+  ```
+  **עמוד ימני (טקסט חלש נטוי):**
+  ```
+  19
+  Kilińskiego
+  ```
+* **Translation (תרגום):**
+  **עמוד שמאלי:**
+  ```
+  30 גלינמן
+  שוונדר
+  קוסוב הוצולסקי (עיירה באוקראינה/פולין)
+  ביסטרה 24
+  ```
+  **עמוד ימני:**
+  ```
+  19
+  קילינסקייגו (רחוב קילינסקי)
+  ```
+
+---
+
+### **תמונה 3**
+
+* **כתובת URL מקורית:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00213.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00213.JPG)
+* **Transcription (העתקה):**
+  **עמוד שמאלי:**
+  ```
+  18-1
+  4
+  11.80
+  ```
+  **עמוד ימני:**
+  ```
+  H     A
+  28   60
+  228  140
+  198  173
+  138  183
+  338  383
+  218  475
+  378  504
+  318  704
+  372  646
+  342  678
+  282  878
+  3    64
+  
+  P 4
+  G. 260
+  Oct. 200
+  H. 100
+  ------
+  1010
+  
+  23
+  37 -
+  13 -
+  43 -
+  11 -
+  39 -
+  61
+  261
+  ---
+  2
+  ```
+* **Translation (תרגום):**
+  *(מדובר בטבלאות ורישומים מספריים וחישובים כספיים/כמותיים)*
+  **עמוד שמאלי:**
+  ```
+  18-1
+  4
+  11.80
+  ```
+  **עמוד ימני:**
+  טורים מסומנים באותיות H ו-A המכילים רשימות מספרים.
+  מימין לטורים:
+  ```
+  P 4
+  G. 260
+  אוקטובר 200 (או אוקט' 200)
+  H. 100
+  ------
+  1010
+  
+  23
+  37 -
+  13 -
+  43 -
+  11 -
+  39 -
+  61
+  261
+  ---
+  2
+  ```
+
+---
+
+### **תמונה 4**
+
+* **כתובת URL מקורית:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00214.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00214.JPG)
+* **Transcription (העתקה):**
+  **עמוד שמאלי:**
+  ```
+  Autobus
+  Bregl 10-12.4
+  Kantryk
+  14/30
+  10 27
+  ```
+  **עמוד ימני:**
+  ```
+  ר ש י מ ו ת
+  
+  Via Pando =
+  Alfini 12.
+  Castelani
+  ---------
+  Via faenza 33
+  אלפרד וילק
+  Luia
+  Marga.
+  Nico
+  Peter.
+  ```
+* **Translation (תרגום):**
+  **עמוד שמאלי:**
+  ```
+  אוטובוס
+  בריגל 10-12.4
+  קנטריק
+  14/30
+  10:27
+  ```
+  **עמוד ימני:**
+  ```
+  ר ש י מ ו ת
+  
+  ויה פנדו = (רחוב פנדו)
+  אלפיני 12.
+  קסטלני
+  ---------
+  ויה פאנצה 33 (רחוב פאנצה בפירנצה, איטליה)
+  אלפרד וילק
+  לואיזה / לוסיה
+  מרגה.
+  ניקו
+  פיטר.
+  ```
+
+---
+
+### **תמונה 5**
+
+* **כתובת URL מקורית:** [https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00215.JPG](https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00215.JPG)
+* **Transcription (העתקה):**
+  **עמוד שמאלי:**
+  ```
+  Euzia Tamari
+  Chaim " 1888
+  ר ש י מ ו ת
+  Chaja " 1893
+  Tonka " 1923
+  Rachel Bitterman
+  Leila Pere "
+  ist. Salem Sulamit
+  czechoslowacia
+  Spiske Podhradie
+  H. e. m. s.
+  ```
+  **עמוד ימני:**
+  ```
+  טבת תש"ו  1945 דצמבר .Decem
+  
+  כו ראשון | Sun, 30
+  Kowner
+  Lose &
+  Hilma
+  
+  כו שני | Mon, 31
+  
+  כח שלישי | Tue. 1 | 1 January 1946
+  BY AIRMAIL
+  Concessioned Postage
+  Palestinian Personnel
+  ```
+* **Translation (תרגום):**
+  **עמוד שמאלי:**
+  ```
+  אוזיה תמרי (מחוק)
+  חיים " 1888 (מחוק)
+  ר ש י מ ו ת
+  חיה " 1893
+  טונקה " 1923
+  רחל ביטרמן
+  ליילה פרה "
+  סאלם סולמית
+  צ'כוסלובקיה
+  ספישסקה פודהראדייה (עיירה בסלובקיה)
+  ה. א. מ. ס. (קיצור לא ברור)
+  ```
+  **עמוד ימני:**
+  ```
+  טבת תש"ו | דצמבר 1945
+  
+  יום א', כ"ו בטבת | Sun, 30
+  [בכתב יד]:
+  קובנר
+  לוזה ו-
+  הילמה
+  
+  יום ב', כ"ו בטבת | Mon, 31
+  
+  יום ג', כ"ח בטבת | Tue. 1 | 1 בינואר 1946
+  [בכתב יד]:
+  בדואר אוויר
+  דמי משלוח מופחתים (Concessioned Postage)
+  סגל ארץ-ישראלי (Palestinian Personnel)
+  ```
