@@ -1,0 +1,175 @@
+### ניתוח מסמכים ותמלול / Document Analysis and Transcription
+
+---
+
+### תמונה 1 / Image 1
+
+**1. קישור מקורי / Original URL:**
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00326.JPG
+
+**2. תמלול / Transcription:**
+```text
+זכר עולם
+נשמת טוביה ומלכה הוטר
+לבית הורתם ז"ל
+ג' אלול כ"ג אלול ז"ל
+ביילא בת ר' טוביה לבית הוטר
+
+משה בן פנחס שנת תש"א
+
+רבקה בת ר' שאול לבית שוארץ
+שנספו על קדוש השם
+בזמן השואה
+```
+
+**3. תרגום לעברית בת זמננו / Translation:**
+> **לזכר עולם:**
+> לעילוי נשמת טוביה ומלכה הוטר, לבית הוריהם זכרונם לברכה (נפטרו ב-ג' באלול וב-כ"ג באלול).
+> ביילא בת רבי טוביה לבית הוטר.
+> משה בן פנחס, נפטר בשנת תש"א (1941).
+> רבקה בת רבי שאול לבית שוורץ.
+> אשר נספו על קידוש השם בזמן השואה.
+
+---
+
+### תמונה 2 / Image 2
+
+**1. קישור מקורי / Original URL:**
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00327.JPG
+
+**2. תמלול / Transcription:**
+```text
+NOTES
+REKLAMOWY
+
+R. KLAHR
+TARNÓW, ul. KATEDRALNA 1.
+
+Skład papieru przyborów
+szkolnych i biurowych
+===
+Centrala wiecznych piór
+===
+Farby, kredki, ołówki,
+pióra, atramenty, cyrkle
+w największym wyborze
+po cenach konkurencyjnych.
+```
+
+**3. תרגום לעברית / Translation:**
+> **פנקס פרסומי**
+> 
+> ר' קלאהר
+> טארנוב, רחוב קתדראלנה 1.
+> 
+> מחסן נייר וציוד לבית ספר ולמשרד
+> ===
+> מרכז לעטים נובעים
+> ===
+> צבעים, צבעי עיפרון, עפרונות,
+> עטים, דיו, מחוגות
+> במבחר הגדול ביותר
+> ובמחירים תחרותיים.
+
+---
+
+### תמונה 3 / Image 3
+
+**1. קישור מקורי / Original URL:**
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00328.JPG
+
+**2. תמלול / Transcription:**
+```text
+[Left page]
+Uncle
+cousin
+
+[Right page]
+J. Grieserok
+1001 Daisy Str.
+Clearfield Pa
+U. S. A.
+------------------
+Y. Laufer
+15 Rue Tiquetonne 15
+Paris 2 E
+------------------
+Y. Silberman
+16 Rue Meslay 16
+Paris (3)
+------------------
+Y. Greenberg
+2910 Spinghilt Ave.
+Baltimore Md
+U. S. America
+```
+
+**3. תרגום לעברית / Translation:**
+> **[עמוד שמאל]**
+> דוד
+> בן/בת דוד
+> 
+> **[עמוד ימין]**
+> י. גריסרוק
+> רחוב דייזי 1001, קלירפילד, פנסילבניה, ארצות הברית.
+> ------------------
+> י. לאופר
+> רחוב טיקטון 15, פריז, רובע 2, צרפת.
+> ------------------
+> י. זילברמן
+> רחוב מלה 16, פריז (רובע 3), צרפת.
+> ------------------
+> י. גרינברג
+> שדרות ספרינגהיל 2910, בולטימור, מרילנד, ארצות הברית.
+
+---
+
+### תמונה 4 / Image 4
+
+**1. קישור מקורי / Original URL:**
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00329.JPG
+
+**2. תמלול / Transcription:**
+```text
+J. Greenberg
+2910 Spinghilt Ave
+Baltimore Md
+U. S. America
+```
+
+**3. תרגום לעברית / Translation:**
+> י. גרינברג
+> שדרות ספרינגהיל 2910, בולטימור, מרילנד, ארצות הברית.
+
+---
+
+### תמונה 5 / Image 5
+
+**1. קישור מקורי / Original URL:**
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00330.JPG
+
+**2. תמלול / Transcription:**
+```text
+J. Grieserok
+1001 Daisy Str.
+Clearfield Pa
+U. S. A
+
+Y. Laufer
+15 Rue Tiquetonne 15
+Paris 2 E
+
+Y. Silberman
+16 Rue Meslay 16
+Paris (3)
+```
+
+**3. תרגום לעברית / Translation:**
+> י. גריסרוק
+> רחוב דייזי 1001, קלירפילד, פנסילבניה, ארצות הברית.
+> 
+> י. לאופר
+> רחוב טיקטון 15, פריז, רובע 2, צרפת.
+> 
+> י. זילברמן
+> רחוב מלה 16, פריז (רובע 3), צרפת.
