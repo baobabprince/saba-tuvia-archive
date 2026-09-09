@@ -1,0 +1,239 @@
+Here is the detailed analysis, transcription, and Hebrew translation for each of the provided images.
+
+---
+
+### **Image 1**
+
+#### **1. Original URL**
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00346.JPG
+
+#### **2. Transcription**
+**Page 4:**
+```
+III. PILNAS IŠLAIKYMAS
+(maitinimas, nakvynė ir p.).
+--------------------------------------------------------
+Atbėgėlio            | Išlaikymo      | Vietos pavadinimas
+pavardė, vardas      | laikas         | ir pažymėjimai
+                     | nuo — ligi     |
+--------------------------------------------------------
+Hutner Tobias        | 40 I. 3        | pabėg. bendrab.
+```
+
+**Page 5:**
+```
+III. Pilnas išlaikymas
+--------------------------------------------------------
+Atbėgėlio            | Išlaikymo      | Vietos pavadinimas
+pavardė, vardas      | laikas         | ir pažymėjimai
+                     | nuo — ligi     |
+--------------------------------------------------------
+```
+
+---
+
+#### **3. Translation (Hebrew)**
+**עמוד 4:**
+```
+ג. כלכלה מלאה
+(מזון, לינה וכו').
+--------------------------------------------------------
+שם משפחה ושם פרטי     | תקופת הכלכלה   | שם המקום והערות
+של הפליט             | מ- — עד        | 
+--------------------------------------------------------
+הוטנר טוביאס         | 3.1.40         | מעון פליטים (מגורי פליטים)
+```
+
+**עמוד 5:**
+```
+ג. כלכלה מלאה
+--------------------------------------------------------
+שם משפחה ושם פרטי     | תקופת הכלכלה   | שם המקום והערות
+של הפליט             | מ- — עד        | 
+--------------------------------------------------------
+```
+
+---
+
+### **Image 2**
+
+#### **1. Original URL**
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00347.JPG
+
+#### **2. Transcription**
+**Page 28:**
+```
+XII. KITOKIOS PAŠALPOS
+--------------------------------------------------------
+Atbėgėlio            | Data     | Pašalpa  | Davėjo pažymė-
+pavardė, vardas      |          |          | jimai ir parašas
+--------------------------------------------------------
+Hutner Tobias        | 23.VIII.40| 10 Lt.  | Ch. Soloveičikaitė
+                     | 25/9. 40 | 5- Lt.   | Ch. Soloveičik
+```
+
+**Page 29:**
+```
+XII. Kitokios pašalpos
+--------------------------------------------------------
+Atbėgėlio            | Data     | Pašalpa  | Davėjo pažymė-
+pavardė, vardas      |          |          | jimai ir parašas
+--------------------------------------------------------
+```
+
+---
+
+#### **3. Translation (Hebrew)**
+**עמוד 28:**
+```
+יב. קצבאות אחרות (סיוע אחר)
+--------------------------------------------------------
+שם משפחה ושם פרטי     | תאריך    | קצבה     | אישורי הנותן
+של הפליט             |          |          | וחתימתו
+--------------------------------------------------------
+הוטנר טוביאס         | 23.8.40  | 10 ליטאס | ח'. סולובייצ'יקאיטה
+                     | 25.9.40  | 5 ליטאס  | ח'. סולובייצ'יק
+```
+
+**עמוד 29:**
+```
+יב. קצבאות אחרות (סיוע אחר)
+--------------------------------------------------------
+שם משפחה ושם פרטי     | תאריך    | קצבה     | אישורי הנותן
+של הפליט             |          |          | וחתימתו
+--------------------------------------------------------
+```
+
+---
+
+### **Image 3**
+
+#### **1. Original URL**
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00348.JPG
+
+#### **2. Transcription**
+**Page 32:**
+```
+XIII. PASTABOS
+```
+
+**Right Page:**
+```
+ŽINOTINA:
+
+1. Knygutė galioja su karo atbėgėlio liudijimu.
+2. Knygutėje įrašus rašo karo atbėgėlius šelpianti Lietuvos Raudonojo Kryžiaus įstaiga.
+3. Knygutėn įrašoma kiekviena bet kuria forma karo atbėgėliui arba jo šeimai teikiama pašalpa.
+4. Atbėgėlius šelpianti L. R. K. įstaiga teikiamą pašalpą įrašo ir knygutės dublikatan.
+5. Knygutės dublikatą veda atskirai kiekviena, pagal knygutę šelpiant, L. R. K. įstaiga.
+6. Knygutės savininkas, pakeitęs gyvenamąją vietą, norėdamas naudotis pašalpa kitoje L. R. K. atbėgėliams šelpti įstaigoje, turi įregistruoti knygutę šioje įstaigoje.
+7. Knygutei dingus, jos savininkas tą turi raštu pareikšti L. R. K. atbėgėliams šelpti įstaigai, kurioje knygutė buvo paskiausiai registruota.
+8. Sugadinta ar pilnai prirašyta knygutė atiduodama L. R. K. atbėgėliams šelpti įstaigai, kurioje knygutė paskiausiai registruota.
+9. Knygutei dingus, ją sugadinus ar pilnai prirašius, išduodama kita knygutė, ir tas įrašoma naujoje knygutėje ir jos dublikate.
+10. Išdavus knygutę, atitinkamai pažymima karo atbėgėlio liudijime.
+```
+
+---
+
+#### **3. Translation (Hebrew)**
+**עמוד 32:**
+```
+יג. הערות
+```
+
+**עמוד ימני:**
+```
+לידיעה:
+
+1. הפנקס תקף בצירוף תעודת פליט מלחמה.
+2. הרישומים בפנקס ייעשו על ידי מוסד הצלב האדום הליטאי המסייע לפליטי מלחמה.
+3. כל קצבה או סיוע הניתנים לפליט המלחמה או למשפחתו בכל צורה שהיא יירשמו בפנקס.
+4. מוסד הצלב האדום הליטאי המסייע לפליטים ירשום את הקצבה הניתנת גם בכפל (עותק) של הפנקס.
+5. כפל הפנקס ינוהל בנפרד על ידי כל מוסד של הצלב האדום הליטאי המעניק סיוע על פי הפנקס.
+6. בעל הפנקס ששינה את מקום מגוריו, ומעוניין לקבל קצבה במוסד אחר של הצלב האדום הליטאי לסיוע לפליטים, חייב לרשום את הפנקס במוסד זה.
+7. במקרה של אובדן הפנקס, על בעליו להצהיר על כך בכתב בפני מוסד הצלב האדום הליטאי לסיוע לפליטים שבו נרשם הפנקס לאחרונה.
+8. פנקס פגום או מלא לחלוטין יוחזר למוסד הצלב האדום הליטאי לסיוע לפליטים שבו נרשם לאחרונה.
+9. במקרה של אובדן, פגם או מילוי מלא של הפנקס, יונפק פנקס חדש, והדבר יירשם בפנקס החדש ובכפל שלו.
+10. לאחר הנפקת הפנקס, תבוצע הערה מתאימה בתעודת פליט המלחמה.
+```
+
+---
+
+### **Image 4**
+
+#### **1. Original URL**
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00349.JPG
+
+#### **2. Transcription**
+```
+Hutner Tobias
+Kęstučio g-vė 28
+
+20
+
+„VILNIAUS“ sp. Kaune, Nepriklausomybės a. 4a. /Tel. 2 07 26.
+```
+
+---
+
+#### **3. Translation (Hebrew)**
+```
+הוטנר טוביאס
+רחוב קסטוצ'יו 28
+
+20
+
+דפוס "וילניוס" בקובנה, כיכר נפריקלאוסומיבס (העצמאות) 4א / טלפון: 2 07 26.
+```
+
+---
+
+### **Image 5**
+
+#### **1. Original URL**
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00350.JPG
+
+#### **2. Transcription**
+```
+Book Number LE 32143 O2E/4382
+
+SURNAME: HUTNER
+INITIALS: TUVJA
+ARMY No. Pal. 38512
+
+DISCHARGE BOOK
+
+LOCALLY ENLISTED
+TROOPS
+
+FOOD CONTROL OFFICE
+17 OCT 1946
+NETANYA AREA.
+
+The pages of this book will be detached in
+accordance with the instructions at the head
+of each page.
+```
+
+---
+
+#### **3. Translation (Hebrew)**
+```
+מספר פנקס LE 32143 O2E/4382
+
+שם משפחה: הוטנר
+ראשי תיבות: טוביה
+מספר צבאי: פל' 38512
+
+פנקס שחרור
+
+חיילים שגויסו מקומית
+(בארץ ישראל)
+
+משרד הפיקוח על המזון
+17 באוקטובר 1946
+אזור נתניה.
+
+הדפים בפנקס זה ייתלשו בהתאם
+להנחיות שבראש כל עמוד.
+```
