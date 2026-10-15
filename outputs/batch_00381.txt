@@ -1,0 +1,266 @@
+Here is the analysis, transcription, and Hebrew translation for each of the provided images:
+
+---
+
+### **Document 1**
+
+**1. Source URL:**
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00381.JPG
+
+**2. Transcription:**
+```text
+28
+
+USSR
+
+TRAVEL COMPANY
+
+INTOURIST
+INTOURIST-MOSKAU
+
+БЮРО ПУТЕШЕСТВИЙ:
+AUSGABESTELLE:
+ISSUING OFFICE:
+
+№ 47510
+
+ДЕНЬ ВЫДАЧИ
+ERSTER GELTUNGSTAG
+FIRST DAY OF VALIDITY
+
+ЦЕНА
+PREIS
+PRICE
+
+[Perforated numbers at bottom: 3040]
+```
+
+**3. Translation:**
+```text
+28
+
+ברית המועצות
+
+חברת נסיעות
+
+אינטוריסט
+אינטוריסט-מוסקבה
+
+משרד נסיעות:
+משרד הנפקה:
+משרד מנפיק:
+
+מס' 47510
+
+יום ההנפקה
+יום התוקף הראשון
+יום התוקף הראשון
+
+מחיר
+מחיר
+מחיר
+
+[נקבים בתחתית: 3040]
+```
+
+---
+
+### **Document 2**
+
+**1. Source URL:**
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00382.JPG
+
+**2. Transcription:**
+```text
+Правила пользования купонными книжками
+
+1. Содержащиеся в этой книжке билеты являются официально допущенными проездными документами транспортных предприятий, штамп которых они носят.
+2. Для отправки багажа действительны те же правила, что и для отправки по билетам обычного железнодорожного сообщения.
+При выполнении таможенных, налоговых, финансовых и других административных формальностей, а также при отправке багажа присутствие пассажиров обязательно, если железной дорогой не допускаются исключения.
+3. Бюро Путешествий является лишь представителем транспортных организаций и не несет никакой ответственности, вытекающей из соглашения по перевозке.
+4. Срок действия билетов начинается со дня (этот день включается), указанного компостером на обложке и на билетах в месте их выдачи.
+Некомпостированные билеты считаются недействительными.
+5. Каждый билет может быть использован только в течение обозначенного на нем срока. Проездка по маршруту, на который действителен данный билет, может быть начата в любой день в течение этого срока, но должна окончиться не позднее полуночи последнего дня действия билета.
+6. Билеты должны быть использованы в том порядке, в каком они помещены в купонной книжке.
+7. Транспортные предприятия сохраняют за собой право, при изменениях стоимости проезда, допускать пользование билетами только при оплате разницы в стоимости проезда.
+8. Билеты без обложки недействительны. Билеты могут отрываться только лицами служебного персонала. Пассажирам рекомендуется следить за тем, чтобы билеты отрывались только для надлежащего маршрута.
+Служебному персоналу указывается на необходимость возвращения пассажирам неправильно оторванных билетов и контрольных корешков с внесением на них соответствующей отметки.
+9. Рекламации о возврате должны направляться в письменном виде в Бюро Путешествий, которое выдало книжки, или жел.-дор., трамвайным, пароходным, воздушным и автомобильным предприятиям, которые указаны на неиспользованном билете.
+Если билет неиспользован, то это должно быть подтверждено на билете лицом служебного персонала.
+10. В остальном действуют тарифы и предписания соответствующих транспортных предприятий.
+```
+
+**3. Translation:**
+```text
+תקנון השימוש בפנקסי קופונים
+
+1. הכרטיסים המוכללים בפנקס זה מהווים מסמכי נסיעה מאושרים רשמית של חברות התחבורה שאת חותמן הם נושאים.
+2. לגבי שליחת מטען חלים אותם הכללים החלים על שליחת מטען בכרטיסי רכבת רגילים.
+בעת ביצוע נהלים מכס, מיסוי, כספים ונהלים מנהליים אחרים, כמו גם בעת שליחת מטען, נוכחות הנוסעים חובה, אלא אם כן הותר חריג על ידי הנהלת הרכבת.
+3. משרד הנסיעות משמש כנציג בלבד של חברות התחבורה ואינו נושא בשום אחריות הנובעת הסכם ההובלה.
+4. תוקף הכרטיסים מתחיל מהיום (כולל יום זה) המצוין בחותמת הניקוב על הכריכה ועל הכרטיסים במקום הנפקתם.
+כרטיסים שלא נוקבו נחשבים לבלתי תקפים.
+5. כל כרטיס ניתן לניצול אך ורק במהלך התקופה המצוינת עליו. הנסיעה במסלול שעבורו תקף הכרטיס יכולה להתחיל בכל יום במהלך תקופה זו, אך חייבת להסתתיים לא מאוחר מחצות הליל של היום האחרון לתוקף הכרטיס.
+6. יש להשתמש בכרטיסים לפי הסדר שבו הם מופיעים בפנקס הקופונים.
+7. חברות התחבורה שומרות לעצמן את הזכות, במקרה של שינוי במחירי הנסיעה, להתיר את השימוש בכרטיסים רק כנגד תשלום ההפרש במחיר.
+8. כרטיסים ללא כריכה אינם תקפים. תלישת הכרטיסים מותרת אך ורק לאנשי הצוות המורשים. מומלץ לנוסעים לוודא שהכרטיסים נתלשים אך ורק עבור המסלול המתאים.
+על צוות השירות להחזיר לנוסעים כרטיסים ותלושי ביקורת שנתלשו בטעות, לאחר הוספת הערה מתאימה.
+9. תביעות להחזר כספי יש להגיש בכתב למשרד הנסיעות שהנפיק את הפנקס, או להנהלת הרכבת, החשמלית, חברת הספנות, התעופה או התחבורה הממונעת המצוינת על גבי הכרטיס שלא נוצל.
+אם הכרטיס לא נוצל, יש לאשר זאת על גבי הכרטיס על ידי איש צוות מורשה.
+10. בכל שאר העניינים חלים התעריפים והתקנות של חברות התחבורה הרלוונטיות.
+```
+
+---
+
+### **Document 3**
+
+**1. Source URL:**
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00383.JPG
+
+**2. Transcription:**
+```text
+Bestimmungen für die Benützung des Fahrscheinheftes
+
+1. Die in diesem Heft enthaltenen Fahrscheine sind amtlich zugelassene Fahrausweise der Beförderungsunternehmungen, deren Stempel sie tragen.
+2. Für die Abfertigung von Gepäck gelten die gleichen Bestimmungen wie für die Abfertigung auf Fahrkarten des allgemeinen Verkehrs.
+Der Reisende ist verpflichtet, der zoll-, steuer-, finanz-, und sonstigen verwaltungsbehördlichen Abfertigung seines Gepäcks beizuwohnen, soweit nicht von den zuständigen Eisenbahnen Ausnahmen zugelassen sind.
+3. Das Reisebüro ist lediglich Vermittler der Beförderungsunternehmungen und übernimmt keinerlei aus dem Beförderungsvertrag entstehende Haftung.
+4. Die Geltungsdauer der Fahrscheine beginnt mit dem Tage (diesen Tag inbegriffen), der auf dem Umschlag und den Fahrscheinen von der Ausgabestelle eingestempelt ist. Nicht abgestempelte Fahrscheine sind ungültig.
+5. Jeder Fahrschein darf nur innerhalb der aus seinem Aufdruck ersichtlichen Geltungsdauer benützt werden. Die Reise kann auf der Strecke, für die der Fahrschein gilt, innerhalb dieser Geltungsdauer an jedem beliebigen Tag angetreten werden, muß aber um Mitternacht des letzten Geltungstages beendet sein.
+6. Die Fahrscheine müssen in der Reihenfolge benützt werden, in der sie eingeheftet sind.
+7. Die Beförderungsunternehmungen behalten sich das Recht vor, bei Fahrpreisänderungen die Benützung der Fahrscheine nur gegen Nachzahlung des Fahrpreisunterschiedes zuzulassen.
+8. Fahrscheine ohne Umschlag sind ungültig. Die Fahrscheine dürfen nur vom Dienstpersonal abgetrennt werden. Dem Reisenden wird empfohlen, darauf zu achten, daß das Dienstpersonal nur die Fahrscheine für die durchfahrenen Strecken abnimmt. Das Dienstpersonal ist angewiesen, irrtümlich abgenommene Fahrscheine und Kontrollabschnitte, nötigenfalls nach Anbringung eines entsprechenden Vermerkes, dem Reisenden zurückzugeben.
+9. Rückerstattungsanträge sind schriftlich entweder an die Zweigstelle des Reisebüros, die das Heft verkauft hat, oder an die Eisenbahn oder Straßenbahnverwaltung, Schiffahrts-, Flug- oder Kraftwagenunternehmung zu richten, die auf dem nicht benützten Fahrschein angegeben ist.
+Die Nichtbenützung muß auf den Fahrscheinen durch das Dienstpersonal bescheinigt sein.
+10. Im übrigen gelten die Tarife und Vorschriften der beteiligten Beförderungsunternehmungen.
+```
+
+**3. Translation:**
+```text
+תקנות לשימוש בפנקס הכרטיסים
+
+1. הכרטיסים המוכללים בפנקס זה הם כרטיסי נסיעה מאושרים רשמית של חברות ההובלה שאת חותמן הם נושאים.
+2. לגבי טיפול במטען חלות אותן התקנות החלות על הטיפול בכרטיסי נסיעה רגילים.
+הנוסע מחויב להיות נוכח בבדיקת המטען על ידי רשויות המכס, המס, הכספים ורשויות מנהליות אחרות, אלא אם הותר חריג על ידי הנהלת הרכבת המוסמכת.
+3. משרד הנסיעות משמש כמתווך בלבד עבור חברות ההובלה ואינו נושא בשום אחריות הנובעת מחוזה ההובלה.
+4. תוקף הכרטיסים מתחיל מהיום (כולל יום זה) שיוטבע על הכריכה ועל הכרטיסים על ידי משרד ההנפקה. כרטיסים ללא חותמת אינם תקפים.
+5. מותר להשתמש בכל כרטיס אך ורק במסגרת תקופת התוקף המצוינת עליו. ניתן להתחיל בנסיעה במסלול שעבורו תקף הכרטיס בכל יום במהלך תקופת תוקף זו, אך יש לסיים אותה בחצות הליל של יום התוקף האחרון.
+6. יש להשתמש בכרטיסים לפי הסדר שבו הם מאוגדים בפנקס.
+7. חברות ההובלה שומרות לעצמן את הזכות, במקרה של שינוי במחירי הנסיעה, להתיר את השימוש בכרטיסים רק כנגד תשלום הפרש המחיר.
+8. כרטיסים ללא כריכה אינם תקפים. תלישת הכרטיסים מותרת אך ורק לצוות השירות. מומלץ לנוסע לוודא שצוות השירות תולש אך ורק את הכרטיסים עבור המקעים שעבר. צוות השירות מונחה להחזיר לנוסע כרטיסים ותלושי ביקורת שנלקחו בטעות, במידת הצורך לאחר הוספת הערה מתאימה.
+9. בקשות להחזר כספי יש להגיש בכתב לסניף משרד הנסיעות שמכר את הפנקס, או להנהלת הרכבת, החשמלית, חברת הספנות, התעופה או הרכב הממונע המצוינת על גבי הכרטיס שלא נוצל.
+אי-השימוש חייב להיות מאושר על גבי הכרטיסים על ידי צוות השירות.
+10. בשאר העניינים חלים התעריפים והתקנות של חברות ההובלה המשתתפות.
+```
+
+---
+
+### **Document 4**
+
+**1. Source URL:**
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00384.JPG
+
+**2. Transcription:**
+```text
+Regulations Concerning the Use of Agency Tickets
+
+1. The coupons contained within these covers represent officially recognized travel-tickets of the travel companies whose stamps they bear.
+2. The registration of baggage is effected on the same conditions as those applying to baggage with ordinary tickets. Travelers are required to be present at the customs, tax, finance and any other administrative formalities, save exceptions granted by the corresponding railway authorities.
+3. The Tourist Office acts solely as the agent of the travel companies and assumes no liabilities arising out of the travel contract.
+4. The validity of the tickets begins on and includes the date marked on the cover by the issuing office's stamp. Unstamped tickets are not valid.
+5. Tickets are valid only within the period indicated thereon. The journey may be started on any date within this period of validity, but must be terminated by midnight of the last day of validity.
+6. The coupons must be used in the sequence in which they have been inserted in the covers.
+7. The travel companies reserve the right, in case of alterations of the cost of fare, to admit holders of tickets only on payment of the corresponding difference.
+8. Coupons without cover are not valid. The coupons may only be withdrawn by the control officials. Travelers are urged to see to it that the control officials detach and withdraw only the coupons for sections covered. Control organs are instructed to return to the traveler any coupon and control coupon withdrawn by mistake, after having made an appropriate note thereon.
+9. Requests for refund should be addressed in writing either to the branch of the Tourist Office which has sold the tickets, or to the railway, tramway, steamship company, airway or automobile transport company indicated on the ticket.
+Non-utilization of tickets must be duly certified by an official.
+10. In all other respects the tariffs and regulations of the travel companies concerned are applicable.
+
+16/X 1940 г.   Тип. „Межкнига“, пл. Свердлова, 4/2   Зак. 1824   Тираж 25 000
+```
+
+**3. Translation:**
+```text
+תקנות בנוגע לשימוש בכרטיסי סוכנות
+
+1. הקופונים המוגשים בתוך כריכות אלו מהווים כרטיסי נסיעה מוכרים רשמית של חברות הנסיעות שאת חותמן הם נושאים.
+2. רישום המטען מתבצע באותם תנאים החלים על מטען בכרטיסים רגילים. הנוסעים נדרשים להיות נוכחים בהליכי המכס, המס, הכספים וכל נוהל מנהלי אחר, למעט חריגים שהותר על ידי רשויות הרכבת המתאימות.
+3. משרד התיירות פועל אך ורק כסוכן של חברות הנסיעות ואינו נושא באחריות כלשהי הנובעת מחוזה הנסיעה.
+4. תוקף הכרטיסים מתחיל ביום המסומן על הכריכה בחותמת משרד ההנפקה (וכולל יום זה). כרטיסים ללא חותמת אינם תקפים.
+5. הכרטיסים תקפים אך ורק בתוך התקופה המצוינת עליהם. ניתן להתחיל בנסיעה בכל תאריך בתוך תקופת תוקף זו, אך יש לסיים אותה עד חצות הליל של יום התוקף האחרון.
+6. יש להשתמש בקופונים לפי הסדר שבו הוכנסו לכריכה.
+7. חברות הנסיעות שומרות לעצמן את הזכות, במקרה של שינויים במחיר הנסיעה, להתיר את כניסת מחזיקי הכרטיסים רק כנגד תשלום ההפרש המתאים.
+8. קופונים ללא כריכה אינם תקפים. תלישת הקופונים מותרת אך ורק לכרטיסנים/מפקחים מורשים. הנוסעים מתבקשים להקפיד על כך שהמפקחים יתלשו ויקחו אך ורק את הקופונים עבור המקטעים שנסעו בהם. גורמי הביקורת מונחים להחזיר לנוסע כל קופון וקופון ביקורת שנלקחו בטעות, לאחר הוספת הערה מתאימה.
+9. בקשות להחזר כספי יש להפנות בכתב לסניף משרד התיירות שמכר את הכרטיסים, או להנהלת הרכבת, החשמלית, חברת הספנות, התעופה או התחבורה הממונעת המצוינת על גבי הכרטיס.
+אי-שימוש בכרטיסים חייב להיות מאושר כראוי על ידי גורם רשמי.
+10. בכל שאר העניינים חלים התעריפים והתקנות של חברות הנסיעות הנוגעות בדבר.
+
+16 באוקטובר 1940. דפוס "מז'קניגה", כיכר סברדלוב 4/2, הזמנה 1824, מהדורה: 25,000 עותקים.
+```
+
+---
+
+### **Document 5**
+
+**1. Source URL:**
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00385.JPG
+
+**2. Transcription:**
+```text
+Mr. T. HUTTNER
+40 SPIGELMAN
+NATANIA.
+
+DIS/1/ P/385/2
+DATE 10/7/46.
+
+Enclosed please find Certificate of Discharge No. x48/24199. Will you please acknowledge the receipt of this document. An envelope is enclosed for this purpose and a pro-forma for you to sign. The envelope requires no stamp.
+
+It is pointed out that Certificate of Discharge is a very important document and no duplicate can be issued in any circumstances.
+
+Officer i/c Palestine Records, M.E.F. [Signature]
+
+--------------------------------------------------------------------------------
+
+x48/251
+DIS/2/ P/385/2
+DATE
+
+To:- The Palestine Record Office, M.E.F.
+
+I acknowledge receipt of Certificate of Discharge No. completed for Army No. Rank Name.
+
+(Signature)
+
+3875/PP&TJ/T/2 5/46
+```
+
+**3. Translation:**
+```text
+מר ט. הוטנר
+שפיגלמן 40
+נתניה.
+
+DIS/1/ P/385/2
+תאריך: 10/7/46.
+
+רצופת בזה תעודת שחרור מס' x48/24199. אנא אשר/י את קבלת מסמך זה. לצרכים אלה מצורפת מעטפה וטופס חתום מראש לחתימתך. המעטפה אינה דורשת בול.
+
+יוער כי תעודת השחרור היא מסמך חשוב ביותר ולא ניתן להנפיק העתק (כפיל) בשום נסיבות שהן.
+
+קצין אחראי על רישומי פלשתינה (א"י), כוחות המחנה המזרחי (M.E.F.) [חתימה]
+
+--------------------------------------------------------------------------------
+
+x48/251
+DIS/2/ P/385/2
+תאריך:
+
+אל:- משרד הרישום של פלשתינה (א"י), כוחות המחנה המזרחי (M.E.F.)
+
+אני מאשר/ת קבלת תעודת שחרור מס' שנשלמה עבור מס' אישי בצבא: דרגה: שם:
+
+(חתימה)
+
+3875/PP&TJ/T/2 5/46
+```
