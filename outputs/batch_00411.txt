@@ -1,0 +1,236 @@
+להלן ניתוח, תעתוק ותרגום של המסמכים המוצגים בתמונות:
+
+---
+
+### תמונה 1
+
+**1. Original URL:**  
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00411.JPG
+
+**2. Transcription:**
+```text
+חיפה
+מאמון ליזע
+
+אי-הבנה
+אהרן
+רעיה
+רבינוביץ, אברהם
+קריית שמואל
+קריית מוצקין
+שבט 113 ב'
+שנת תש"ו / 16.3
+Neustadt / עגולה
+פולק / עגולה
+רוזנברג
+רוזנברג
+```
+
+**3. Translation:**
+*(הטקסט במקור כתוב בעברית מופשטת ובכתב יד; להלן רישום מוסדר בעברית)*
+* חיפה
+* מאמון ליזה
+* אי-הבנה
+* אהרן
+* רעיה
+* רבינוביץ', אברהם
+* קריית שמואל
+* קריית מוצקין
+* ב' שבט 113
+* שנת תש"ו / 16.3
+* נוישטאדט / עגולה
+* פולק / עגולה
+* רוזנברג
+* רוזנברג
+
+---
+
+### תמונה 2
+
+**1. Original URL:**  
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00412.JPG
+
+**2. Transcription:**
+```text
+J. Hollander
+21. גולדהאבר
+Hasserodt A. Schneidmüller
+38, 2  2.6. הניגסברג
+K (Skarven 4) Haffkruge
+חזה ה' קנא ר' ...
+הרושובסקי
+לינטשר
+11/10 קאפו
+רוזה קאהן ג'ורג'
+טוקר פרידה
+
+Dora Schjara
+c/o Frisk
+Ringgatan 22
+Kulldal near Malmö
+Sweden
+```
+
+**3. Translation:**
+* י. הולאנדר
+* 21. גולדהאבר
+* האסרוט א. שניידמילר
+* 38, 2  2.6. קניגסברג (הניגסברג)
+* ק' (סקרבן 4) הפקרוג
+* חזה ה' קנא ר' ...
+* הרושובסקי
+* לינטשר
+* 11/10 קאפו
+* רוזה קאהן ג'ורג'
+* טוקר פרידה
+* דורה שייארה (Dora Schjara)
+* אצל פריסק (c/o Frisk)
+* רחוב רינגגאטן 22 (Ringgatan 22)
+* קולדאל ליד מאלמו (Kulldal near Malmö)
+* שוודיה (Sweden)
+
+---
+
+### תמונה 3
+
+**1. Original URL:**  
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00413.JPG
+
+**2. Transcription:**
+```text
+א ב ג ד ה ו ז ח ט י כ ל
+מ נ ס ע פ צ ק ר ש ת
+( ) - ' ?! "" : ; & | D
+1 2 3 4 5 6 7 8 9 0
++ - * = / :
+
+כל אדם דורש
+כי כתיבתו תהיה נאה
+לכן קנה מחברת אומנות
+"ציצל"
+כי זה היתרון
+
+בית חרושת "ציצל" פתח-תקוה א.צ.מ
+```
+
+**3. Translation:**
+* דוגמאות אותיות, סימנים ומספרים:
+  א ב ג ד ה ו ז ח ט י כ ל
+  מ נ ס ע פ צ ק ר ש ת
+  ( ) - ' ?! "" : ; & | D
+  1 2 3 4 5 6 7 8 9 0
+  + - * = / :
+* **טקסט פרסומי:**
+  כל אדם דורש
+  כי כתיבתו תהיה נאה
+  לכן קנה מחברת אמנות
+  "ציצל"
+  כי זה היתרון
+* **טקסט בתחתית הדף:**
+  בית חרושת "ציצל" פתח-תקווה א.צ.מ.
+
+---
+
+### תמונה 4
+
+**1. Original URL:**  
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00414.JPG
+
+**2. Transcription:**
+```text
+Każden przeciętny człowiek obojętnie
+w jakiej epoce żyje, przeżywa
+niewidne okresy. Mniej lub więcej
+ciekawe, miłe albo smutne czy też
+Szczególnie my – pokolenie ostatniej
+wojny, przeżyliśmy epokę, którą
+wprawdzie trudno ująć w słowa.
+Jakkolwiek nazwaliby ją, będzie
+to jeszcze nie dobitne określenie nie
+będzie nie mało wyraziste. (Może
+przyszłość wymajstruje wczesną, cną
+encyklopedię – nazwie tę epokę, XX wiek
+jeszcze nie jest w stanie tego dokonać,
+Ale to nie ważne w tej chwili,
+Dochodzę do sedna. Ja – tak jak
+każden z nas przeżył na własnej
+skórze choć część tej olbrzymiej
+tragedii jaka przeszła przez Europę.
+Przeżył w ten, czy inny sposób -
+większy lub tak, czy inny. -
+```
+
+**3. Translation:**
+כל אדם ממוצע, ללא קשר באיזו תקופה הוא חי, עובר תקופות לא ידועות (או נסתרות). מעט או יותר מעניינות, נעימות או עצובות או גם...  
+במיוחד אנו – דור המלחמה האחרונה, חווינו תקופה שבאמת קשה לתאר במילים.  
+איך שלא יקראו לה, זה עדיין לא יהיה תיאור מדויק, ולא יהיה מספיק ברור. (אולי העתיד ינסח באנציקלופדיה מוקדמת ומוערכת שם לתקופה זו; המאה ה-20 עדיין אינה מסוגלת לעשות זאת).  
+אבל זה לא חשוב ברגע זה,  
+אני מגיע לעיקר. אני – כמו כל אחד מאיתנו, חוויתי על בשרי לפחות חלק מהטרגדיה העצומה הזו שעברה על אירופה.  
+חוויתי אותה בדרך זו או אחרת – גדולה יותר או כזו או אחרת. -
+
+---
+
+### תמונה 5
+
+**1. Original URL:**  
+https://assets.yadvashem.org/image/upload/t_f_low_image/f_auto/v1/remote_media/documentation4/16/12612299_03263622/00415.JPG
+
+**2. Transcription:**
+```text
+[עמוד 2 - שמאל]
+2  pośród wielu pamiętnych dni
+z tego oto okresu, jeden jedyny
+dzień wrył mi się specyficznie
+w pamięć. Ogromną szarością, która
+nigdy nie będzie zasłonięta - pozosta-
+nie do grobowej deski. -
+No i słusznie, bo czyż można
+zapomnieć dzień w którym nagle
+zabrano w-z-y-s-t-k-o-!-!-!
+To znaczy wszystko: radości i smutki,
+marzenia, tęsknoty, przeszłość: całą!!!
+Jednym słowem pozostałem w tym
+oto dniu osamotniony, ogołocony i
+samotny. Czyż można przeżyć
+większą tragedię? o nie! Powtórzenie
+wszystkiego było to tylko plamą
+W potoku też początkowo rozpaczy
+przypadła mnie słabość:
+... Pogroba (jak gdyby by jakiś szatańska ...
+
+[עמוד ימין]
+moc obmierzłośćiei) okrywy mgłę, słoneczny
+jasny jesienny dzień z srebrnymi
+nitkami babiego lata.
+W taki niewinny ranek, plac Maj-
+danka zalany słońcem. Dokoła
+tłumy ludzkie kłębią. W pośrodku nasi
+„władcy” panowie życia i śmierci
+w wyprasowanych mundurach, wyg-
+lanzowanych cholewach i veilbeisserami
+w jednej, a rewolwerami w drugiej
+ręce. Komenderują głośno: Loss...
+Links! Rechts! Tłumy ludzi - ludzi
+którzy świadomi swej przyszłości -
+pod komendą kłębią, równo rzędem.
+Ale to już nie są ludzie - to są oczy-
+oczy straszne, błędne, osobne które
+szukają ratunku bezskutecznie.
+Bo oto teraz obchodzi do punktu
+kulminacyjnego, Teraz zachowują
+mowę... obiecują o ironio! "panowie"
+```
+
+**3. Translation:**
+**[עמוד שמאל]**  
+2. מבין ימים רבים שנחרתו בזיכרון מפרק זמן זה, יום אחד ויחיד נחרת בזיכרוני באופן מיוחד. באפרוריות עצומה, שמעולם לא תכוסה – ותישאר עד יום מותי. -  
+ובצדק, כי האם אפשר לשכוח יום שבו נלקח פתאום ה-כ-ל-!-!-!  
+כלומר הכל: שמחות ועצבות, חלומות, געגועים, עבר: הכל!!!  
+במילה אחת, נשארתי ביום הזה מבודד, מרוקן ובודד. האם אפשר לחוות טרגדיה גדולה יותר? או, לא! חזרה על הכל הייתה רק כתם.  
+בשטף הייאוש הראשוני אחזה בי חולשה...  
+
+**[עמוד ימין]**  
+...כאילו כוח שטן נתעב כיסה בערפל יום סתווי שטוף שמש ובהיר עם חוטי כסף של שרביט הקיץ.  
+בבוקר תמים כזה, כיכר מיידנק מוצפת שמש. מסביב המוני אדם מצטופפים. באמצע "שליטינו", אדוני החיים והמוות, במדים מגוהצים, מגפיים מבריקים, וכלבי תקיפה ביד אחת, ואקדחים ביד השנייה. מפקדים בקול רם: לוס... שמאלה! ימינה! המוני אנשים – אנשים שמודעים לעתידם – מצטופפים תחת הפיקוד, בשורות ישרות.  
+אבל אלה כבר לא אנשים – אלה עיניים; עיניים נוראיות, תועות, מנותקות, המחפשות ישועה לשווא.  
+כי הנה כעת זה מגיע לשיא, כעת הם מאבדים את הדיבור... מבטיחים, הוו האירוניה! "האדונים"...
